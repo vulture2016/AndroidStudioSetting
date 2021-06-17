@@ -1,0 +1,244 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work Project/Calendar/app/fish_res/layout/date_details_fragment.xml" value="0.3487179487179487" />
+        <entry key="..\:/Work Project/Calendar/app/fish_res/layout/item_child_share.xml" value="0.3487179487179487" />
+        <entry key="..\:/Work Project/Calendar/app/fish_res/layout/item_inner_tools.xml" value="0.3487179487179487" />
+        <entry key="..\:/Work Project/Calendar/app/src/main/res/layout/activity_add_important_day.xml" value="0.3487179487179487" />
+        <entry key="..\:/Work Project/Calendar/app/src/main/res/layout/activity_modern.xml" value="0.1" />
+        <entry key="..\:/Work Project/Calendar/app/src/main/res/layout/activity_setting.xml" value="0.3472222222222222" />
+        <entry key="..\:/Work Project/Calendar/app/src/main/res/layout/fragment_add_birthday.xml" value="0.3487179487179487" />
+        <entry key="..\:/Work Project/Calendar/app/src/main/res/layout/home_activity.xml" value="0.3487179487179487" />
+        <entry key="..\:/Work Project/Calendar/pictureshare/src/main/res/drawable/shape_bg_share_float.xml" value="0.3692708333333333" />
+        <entry key="..\:/Work Project/Calendar/pictureshare/src/main/res/layout/share_screenshot_layout.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/Charging/app/src/main/res/drawable/bg_divide_prize_pool.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/app/src/main/res/drawable/icon_close.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/app/src/main/res/drawable/img_guide_finger_2.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/app/src/main/res/layout/activity_withdraw.xml" value="0.5027777777777778" />
+        <entry key="..\:/Work Project/Charging/app/src/main/res/layout/activity_withdrawal_detail.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/Charging/app/src/main/res/layout/fragment_collect_debris.xml" value="0.5055555555555555" />
+        <entry key="..\:/Work Project/Charging/app/src/main/res/layout/fragment_home.xml" value="0.5125" />
+        <entry key="..\:/Work Project/Charging/app/src/main/res/layout/fragment_mine.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/Charging/app/src/main/res/layout/pop_guide_withdraw.xml" value="0.5125" />
+        <entry key="..\:/Work Project/Charging/app/src/main/res/layout/pop_instruction.xml" value="0.49722222222222223" />
+        <entry key="..\:/Work Project/Charging/app/src/main/res/layout/pop_sign.xml" value="0.4666666666666667" />
+        <entry key="..\:/Work Project/Charging/app/src/main/res/layout/pop_tips_layout_bottom.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/app/src/weather/res/layout/custom_fragment_home.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/Charging/app/src/weather/res/layout/custom_fragment_weather_city.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/app/src/weather/res/layout/custom_weather_item_today_weather.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/Charging/app/src/weather/res/layout/fragment_guess.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/Charging/app/src/weather/res/layout/fragment_home.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/Charging/app/src/weather/res/layout/fragment_test_game.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/app/src/weather/res/layout/pop_divide_prize_pool.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/Charging/app/src/weather/res/layout/pop_guess.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/app/src/weather/res/layout/pop_guess_query.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/app/src/weather/res/layout/pop_guess_reward.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/app/src/weather/res/layout/pop_sign_up_successfully.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/app/src/weather/res/layout/weather_fragment_welfare_partition_prize.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/app/src/wifi/res/layout/fragment_home.xml" value="1.0" />
+        <entry key="..\:/Work Project/Charging/fish-sdk-collection/base/src/main/res/layout/pop_get_coin.xml" value="0.4666666666666667" />
+        <entry key="..\:/Work Project/Charging/fragment/src/main/res/layout/fragment_collect_debris.xml" value="0.4736111111111111" />
+        <entry key="..\:/Work Project/Charging/news/src/main/res/drawable/btn_square_round_corner_blue.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/news/src/main/res/drawable/ic_news_coin.xml" value="0.5402777777777777" />
+        <entry key="..\:/Work Project/Charging/news/src/main/res/drawable/ic_news_error.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/news/src/main/res/drawable/shape_bg_coin.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/news/src/main/res/drawable/shape_lunar_confirm.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/news/src/main/res/drawable/shpae_bg_coin.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/news/src/main/res/layout/activity_edit_news_category.xml" value="0.5055555555555555" />
+        <entry key="..\:/Work Project/Charging/news/src/main/res/layout/empty_news.xml" value="0.5055555555555555" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/ic_back.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/ic_back_black.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/ic_close.xml" value="0.55390625" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/ic_qr_code.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/ic_share.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/ic_wechat_circle.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/icon_close.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/promote_ic_arrow_right.xml" value="0.5277777777777778" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/promote_ic_benefit.xml" value="0.5277777777777778" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/promote_ic_double_arror_right.xml" value="0.5277777777777778" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/promote_ic_double_arrow_right.xml" value="0.5277777777777778" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/promote_ic_download.xml" value="0.5277777777777778" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/promote_ic_start.xml" value="0.5277777777777778" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/promote_ic_wechat.xml" value="0.5277777777777778" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/promote_shape_orange_0_4.xml" value="0.5263888888888889" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/promote_shape_orange_16.xml" value="0.5263888888888889" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/promote_shape_white_24.xml" value="0.5277777777777778" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/shape_bg_share_float.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/shape_my_coin.xml" value="0.55390625" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/drawable/shape_white_24.xml" value="1.0" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/activity_withdraw.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/activity_withdraw_wifi3.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/activity_withdrawal_detail_wifi3.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/fragment_promote.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/fragment_promote_main.xml" value="0.46111111111111114" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/item_banner.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/item_contribution.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/item_contribution_record.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/item_ear_raiders.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/item_earn_raiders.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/item_invite_withdraw.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/item_make_money_contribution.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/item_share_type.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/item_withdrawal_detail_wifi3.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/layout_share_float.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/layout_stencil_screenshot.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/layout_withdrawl_detail_empty_model.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/layout_withdrawl_detail_empty_wifi3.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/pop_contribution_record.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/pop_guide_promote.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/pop_instruction_model.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/pop_instruction_wifi3.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/pop_make_money.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/pop_share_paper.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/pop_withdrawal_application_model.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/promote/src/main/res/layout/share_screenshot_layout.xml" value="0.53125" />
+        <entry key="..\:/Work Project/Charging/weather-model-collection/app/src/main/res/layout/weather_activity_main.xml" value="0.5152777777777777" />
+        <entry key="..\:/Work Project/Charging/weather-model-collection/app/src/main/res/layout/weather_fragment_home.xml" value="0.53125" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/activity_main.xml" value="0.3487179487179487" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/dialog_custom.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/fragment_dialog.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/fragment_highlight.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/fragment_highlight_more.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/fragment_main.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/fragment_popup.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/fragment_recycler_view.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/guide_step_first.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/guide_step_second.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/guide_step_third.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/guide_tips_layout.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/hight_light_recycler_view.xml" value="0.3487179487179487" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/item_recycler_view.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/layout_dialog_tips.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/pop_tips_layout_bottom.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/pop_tips_layout_left.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/pop_tips_layout_right.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/HighLightPro/app/src/main/res/layout/pop_tips_layout_top.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/NewWeather/Charging/app/src/main/res/layout/activity_main.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/NewWeather/Charging/app/src/main/res/layout/pop_get_coin.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/NewWeather/Charging/app/src/weather/res/drawable/shape_white_8.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/NewWeather/Charging/app/src/weather/res/layout/custom_footer_bd_union.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/NewWeather/Charging/app/src/weather/res/layout/custom_fragment_home.xml" value="0.4930555555555556" />
+        <entry key="..\:/Work Project/NewWeather/Charging/app/src/weather/res/layout/custom_fragment_weather_city.xml" value="0.5111111111111111" />
+        <entry key="..\:/Work Project/NewWeather/Charging/app/src/weather/res/layout/custom_weather_item_today_weather.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/NewWeather/Charging/app/src/weather/res/layout/pop_guess_reward.xml" value="0.53125" />
+        <entry key="..\:/Work Project/NewWeather/Charging/app/src/weather/res/layout/weather_fragment_welfare_partition_prize.xml" value="0.5125" />
+        <entry key="..\:/Work Project/NewWeather/Charging/fish-sdk-collection/news/src/main/res/drawable/ic_news_error.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/NewWeather/Charging/fish-sdk-collection/news/src/main/res/drawable/shape_bg_coin.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/NewWeather/Charging/fish-sdk-collection/news/src/main/res/drawable/shape_lunar_confirm.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/NewWeather/Charging/fish-sdk-collection/news/src/main/res/layout/empty_news.xml" value="0.2953125" />
+        <entry key="..\:/Work Project/NewWeather/Charging/fish-sdk-collection/news/src/main/res/layout/fragment_news.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/NewWeather/Charging/fish-sdk-collection/news/src/main/res/layout/item_news.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work Project/NewWeather/Charging/fish-sdk-collection/news/src/main/res/layout/layout_load_more.xml" value="0.53125" />
+        <entry key="..\:/Work Project/NewWeather/Charging/fish-sdk-collection/news/src/main/res/layout/native_cpu_view.xml" value="0.53125" />
+        <entry key="..\:/Work Project/NewWeather/Charging/fish-sdk-collection/news/src/main/res/layout/srl_news_classics_header.xml" value="0.53125" />
+        <entry key="..\:/Work Project/NewWeather/Charging/weather-model-collection/app/src/main/res/drawable/weather_dialog_bg.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/NewWeather/Charging/weather-model-collection/app/src/main/res/drawable/weather_ic_location.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work Project/NewWeather/Charging/weather-model-collection/app/src/main/res/layout/weather_activity_city_manager.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/NewWeather/Charging/weather-model-collection/app/src/main/res/layout/weather_empty_home.xml" value="0.53125" />
+        <entry key="..\:/Work Project/NewWeather/Charging/weather-model-collection/app/src/main/res/layout/weather_fragment_city_weather.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/NewWeather/Charging/weather-model-collection/app/src/main/res/layout/weather_item_today_weather.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work Project/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/item_15day_forecast.xml" value="0.53125" />
+        <entry key="..\:/Work/Calendar/app/sdk_res/drawable/ic_small_sunset.xml" value="0.3635897435897436" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_modern.xml" value="0.1" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_setting.xml" value="0.1" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_sunrise_sunset.xml" value="0.3398148148148148" />
+        <entry key="..\:/Work/Charging/app/src/main/res/layout/pop_speed_up_complete.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work/Charging/app/src/wifi/res/layout/fragment_home.xml" value="0.5" />
+        <entry key="..\:/Work/Charging/news/src/main/res/layout/item_news.xml" value="0.53125" />
+        <entry key="..\:/Work/Charging/promote/src/main/res/layout/activity_withdraw_model.xml" value="0.4638888888888889" />
+        <entry key="..\:/Work/Charging/promote/src/main/res/layout/fragment_promote.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work/Charging/promote/src/main/res/layout/fragment_promote_main.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work/Charging/promote/src/main/res/layout/share_screenshot_layout.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/drawable/shape_marquee.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/activity_withdraw.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/fragment_collect_debris.xml" value="0.5152777777777777" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/item_banner.xml" value="0.5152777777777777" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/item_float_coin.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/item_marquee.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/pop_get_coin.xml" value="0.4875" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/pop_instruction.xml" value="0.4486111111111111" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/pop_phone_fragment.xml" value="0.4875" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/pop_speed_up_withdrawal.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/activity_launcher.xml" value="0.1" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/custom_footer_bd_union.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/custom_fragment_home.xml" value="0.4986111111111111" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/custom_fragment_weather_city.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/custom_item_weather_indexes.xml" value="0.48194444444444445" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/custom_weather_item_today_weather.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/fragment_kw_short_video.xml" value="0.5055555555555555" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/fragment_wallet.xml" value="0.4486111111111111" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/item_24hour_forecast2.xml" value="0.48194444444444445" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/item_hot_activity.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/proxy_custom_weather_item_today_weather.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/weather_fragment_welfare_partition_prize.xml" value="0.4986111111111111" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/ic___wechat.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/ic_qr_code.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/ic_share.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/ic_wechat_circle.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/promote_ic_excl_mark.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/promote_ic_speaker.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/promote_ic_wechat.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/promote_ic_wechat_circle.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/selector_leaderboard_color.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/selector_leaderboard_state.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/shape_leaderboard_board.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/shape_leaderboard_unchecked.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/shape_promote_marquee.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/shape_white_20_bottom.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/activity_cash_wallet.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/activity_cash_withdraw_detail_model.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/activity_contribution_wallet.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/activity_withdraw_model.xml" value="0.2953125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/activity_withdrawal_detail_model.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/fragment_my_invite.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/fragment_promote_main.xml" value="0.475" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/item_banner.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/item_cash_rank.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/item_contribution_rank.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/item_earn_raiders.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/item_promote_marquee.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/item_rank.xml" value="0.4875" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/item_share_type.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/layout_error_view.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/pop_cash_income_detail.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/pop_cash_leaderboard.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/pop_contribution_income_detail.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/pop_contribution_leaderboard.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/pop_leaderboard.xml" value="0.5679611650485437" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/pop_past_cash_leaderboard.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/pop_past_contribution_leaderboard.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/pop_share_paper.xml" value="0.5152777777777777" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/pop_total_bill.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/pop_withdrawal_application_model.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_item_banner.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_item_leader_reward.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_item_rank.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_item_total.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_layout_empty_view.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_layout_error_view.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_cash_leaderboard.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_contribution_leaderboard.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_insufficient_cash_withdrawal.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_leader_reward.xml" value="0.5097222222222222" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_past_cash_leaderboard.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_past_contribution_leaderboard.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_total_bill.xml" value="0.5152777777777777" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_withdrawal_application_model.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_withdrawal_application_successful.xml" value="0.5041666666666667" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_withdrawing.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/share_screenshot_layout.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/fish-sdk-collection/news/src/main/res/layout/fragment_news.xml" value="0.4986111111111111" />
+        <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/app/src/main/res/layout/weather_fragment_city_weather.xml" value="0.4888888888888889" />
+        <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/app/src/main/res/layout/weather_fragment_me.xml" value="1.0" />
+        <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/app/src/main/res/layout/weather_item_today_weather.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/share/src/main/res/layout/share_screenshot_layout.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/drawable/ic_small_sunrise.xml" value="0.5361111111111111" />
+        <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/drawable/ic_small_sunset.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/item_15day_forecast.xml" value="0.4875" />
+        <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/item_sunrise_sunset.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/weather_item.xml" value="0.48194444444444445" />
+      </map>
+    </option>
+  </component>
+</application>

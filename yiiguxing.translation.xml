@@ -1,0 +1,89 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="453" />
+    <option name="newTranslationDialogWidth" value="791" />
+    <option name="newTranslationDialogX" value="704" />
+    <option name="newTranslationDialogY" value="417" />
+    <histories>
+      <item value="core" />
+      <item value="week" />
+      <item value="condition" />
+      <item value="rank" />
+      <item value="internal" />
+      <item value="rank num" />
+      <item value="排名" />
+      <item value="Performs the given action for each remaining element until all elements have been processed or the action throws an exception. Actions are performed in the order of iteration, if that order is specified. Exceptions thrown by the action are relayed to the caller." />
+      <item value="Leader Board" />
+      <item value="Cannot provide null context for the database." />
+      <item value="scope" />
+      <item value="payee Name" />
+      <item value="privilege" />
+      <item value="recommend" />
+      <item value="CONTRIBUTION" />
+      <item value="Creates a new instance of the [Lazy] that uses the specified initialization function [initializer] and the default thread-safety mode [LazyThreadSafetyMode.SYNCHRONIZED]. If the initialization of a value throws an exception, it will attempt to reinitialize the value at next access. Note that the returned instance uses itself to synchronize on. Do not synchronize from external code on the returned instance as it may cause accidental deadlock. Also this behavior can be changed in the future." />
+      <item value="Deprecated" />
+      <item value="An annotation argument must be a compile-time constant" />
+      <item value="The binary version of its metadata is 1.5.1" />
+      <item value="expected version" />
+      <item value="winning Marquee" />
+      <item value="中奖广告" />
+      <item value="中奖" />
+      <item value="predict" />
+      <item value="remote" />
+      <item value="Returns a property delegate to access [ViewModel] by default scoped to this [Fragment]: ``` class MyFragment : Fragment() { val viewmodel: MYViewModel by viewmodels() } ``` Custom [ViewModelProvider.Factory] can be defined via [factoryProducer] parameter, factory returned by it will be used to create [ViewModel]: ``` class MyFragment : Fragment() { val viewmodel: MYViewModel by viewmodels { myFactory } } ``` Default scope may be overridden with parameter [ownerProducer]: ``` class MyFragment : Fragment() { val viewmodel: MYViewModel by viewmodels ({requireParentFragment()}) } ``` This property can be accessed only after this Fragment is attached i.e., after [Fragment.onAttach()], and access prior to that will result in IllegalArgumentException." />
+      <item value="KV CUR VIDEO TIMES" />
+      <item value="Callback interface you can use when instantiating a Handler to avoid having to implement your own subclass of Handler." />
+      <item value="Detached" />
+      <item value="per" />
+      <item value="Evaluates the pending bindings, updating any Views that have expressions bound to modified variables. This &lt;b&gt;must&lt;b&gt; be run on the UI thread." />
+      <item value="elem" />
+      <item value="Placement's Ad is loading." />
+      <item value="No value passed for parameter 'value'" />
+      <item value="Local variable name '_distance' should start with a lowercase letter" />
+      <item value="target" />
+      <item value="welfare partition prize" />
+      <item value="Proxy" />
+      <item value="INITIALIZED" />
+      <item value="AUTH" />
+      <item value="SENDAUTH" />
+      <item value="HMS Toolkit provides automatic error log analysis function, it is detected that the automatic analysis switch is turned on,do you need to turn it off?" />
+      <item value="deploy" />
+      <item value="The latest stable release of Android Studio is now available for download. Android Studio 4.2.1 is a major new release and includes performance improvements, bug fixes and new features. IntelliJ 2020.2.3 Platform Update Safe Args Support New Project Wizard and Module Wizard Updates Database Inspector Improvements Retrace Command Line Tool AGP Upgrade Assistant Apply Changes Enhancements Multiple Device Deployment System Trace Improvements Important After updating, you need to restart Android Studio to apply any memory settings you migrate from an earlier version of the IDE." />
+      <item value="赚钱攻略" />
+      <item value="攻略" />
+      <item value="LAST SHOW GUIDE PROMOTE DATE" />
+      <item value="Denotes that the annotated element should not be removed when the code is minified at build time. This is typically used on methods and classes that are accessed only via reflection so a compiler may think that the code is unused. &lt;p&gt; Example: &lt;pre&gt;&lt;code&gt; &amp;64;Keep public void foo() { ... } &lt;code&gt;&lt;pre&gt;" />
+      <item value="fission Parent" />
+      <item value="Given final block not properly padded. Such issues can arise if a bad key is used during decryption." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="274" />
+        <entry key="ENGLISH" value="275" />
+        <entry key="FRENCH" value="2" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="SOMALI" value="1" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1623736436045" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
+    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="AUTO" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

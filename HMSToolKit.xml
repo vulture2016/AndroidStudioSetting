@@ -1,0 +1,119 @@
+<application>
+  <component name="HMSToolKitPlugin">
+    <option name="localAgreementList">
+      <list>
+        <LocalAgreement>
+          <option name="agree" value="true" />
+          <option name="area" value="DR1" />
+          <option name="name" value="latest" />
+          <option name="signAgreementTime" value="1615274487136" />
+          <option name="version" value="20201214" />
+        </LocalAgreement>
+      </list>
+    </option>
+    <option name="usedKitsMap">
+      <map>
+        <entry key="10f8a91d">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="162bb485">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="1d48f9d6">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="1ff69787">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="20206bd3">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="26fa6340">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="434545ac">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="5cbc77c5">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="6647930a">
+          <value>
+            <list>
+              <option value="Push Kit" />
+            </list>
+          </value>
+        </entry>
+        <entry key="68f4f522">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="8ec5ffe">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="b0be41ea">
+          <value>
+            <list>
+              <option value="Push Kit" />
+            </list>
+          </value>
+        </entry>
+        <entry key="b1fb62f9">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="b7eb76a8">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="c681fa3d">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="d961dc86">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="eb3865e0">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="ee06a46a">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="f66d2c88">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="userId" value="ee0c7564-9bc6-484e-858a-04b920fb7141" />
+  </component>
+</application>
