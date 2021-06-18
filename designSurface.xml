@@ -156,7 +156,8 @@
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/item_banner.xml" value="0.5152777777777777" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/item_float_coin.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/item_marquee.xml" value="0.53125" />
-        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/pop_get_coin.xml" value="0.4875" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/pop_center_tips.xml" value="1.0" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/pop_get_coin.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/pop_instruction.xml" value="0.4486111111111111" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/pop_phone_fragment.xml" value="0.4875" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/pop_speed_up_withdrawal.xml" value="0.5190839694656488" />
@@ -220,7 +221,7 @@
         <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_cash_leaderboard.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_contribution_leaderboard.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_insufficient_cash_withdrawal.xml" value="0.53125" />
-        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_leader_reward.xml" value="0.5097222222222222" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_leader_reward.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_past_cash_leaderboard.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_past_contribution_leaderboard.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_pop_total_bill.xml" value="0.5152777777777777" />
