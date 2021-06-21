@@ -151,8 +151,11 @@
         <entry key="..\:/Work/Charging/promote/src/main/res/layout/fragment_promote_main.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/Charging/promote/src/main/res/layout/share_screenshot_layout.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/drawable/shape_marquee.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/activity_fragment_container.xml" value="0.5097222222222222" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/activity_withdraw.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/fragment_collect_debris.xml" value="0.5152777777777777" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/fragment_ggl.xml" value="0.5097222222222222" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/fragment_idiom.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/item_banner.xml" value="0.5152777777777777" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/item_float_coin.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/item_marquee.xml" value="0.53125" />
@@ -173,6 +176,7 @@
         <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/item_hot_activity.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/proxy_custom_weather_item_today_weather.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/weather_fragment_welfare_partition_prize.xml" value="0.5097222222222222" />
+        <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/ggl_ic_right_arrow.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/shape_ggl_boarder.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/shape_ggl_boarder2.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/shape_ggl_marquee.xml" value="0.5412213740458015" />
