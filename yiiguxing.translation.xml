@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Notified when a tap occurs with the up {@link MotionEvent} that triggered it. @param e The up motion event that completed the first tap @return true if the event is consumed, else false" />
+      <item value="on Single Tap Up" />
       <item value="Move the task containing this activity to the back of the activity stack. The activity's order within the task is unchanged. @param nonRoot If false then this only works if the activity is the root of a task; if true it will work for any activity in a task. @return If the task was moved (or it was already at the back) true is returned, else false." />
       <item value="core" />
       <item value="week" />
@@ -54,8 +56,6 @@
       <item value="赚钱攻略" />
       <item value="攻略" />
       <item value="LAST SHOW GUIDE PROMOTE DATE" />
-      <item value="Denotes that the annotated element should not be removed when the code is minified at build time. This is typically used on methods and classes that are accessed only via reflection so a compiler may think that the code is unused. &lt;p&gt; Example: &lt;pre&gt;&lt;code&gt; &amp;64;Keep public void foo() { ... } &lt;code&gt;&lt;pre&gt;" />
-      <item value="fission Parent" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623736436045" />
+    <option name="lastTrimTime" value="1624262096997" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
