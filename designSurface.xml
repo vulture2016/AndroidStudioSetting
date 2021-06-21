@@ -173,6 +173,7 @@
         <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/item_hot_activity.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/proxy_custom_weather_item_today_weather.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/weather_fragment_welfare_partition_prize.xml" value="0.4986111111111111" />
+        <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/shape_ggl_marquee.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/layout_ggl.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/pop_ggl_guide.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/drawable/ic___wechat.xml" value="0.5412213740458015" />
@@ -216,6 +217,7 @@
         <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/pop_total_bill.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/pop_withdrawal_application_model.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_activity_cash_wallet.xml" value="0.5166666666666667" />
+        <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_fragment_promote_main.xml" value="0.5097222222222222" />
         <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_item_banner.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_item_cash_withdraw.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/promote/src/main/res/layout/promote_item_leader_reward.xml" value="0.53125" />
