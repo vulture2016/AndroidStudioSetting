@@ -23,6 +23,7 @@
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="CIDR.Lang.ImportsHierarchy" />
+  <action id="ChangeSignature" />
   <action id="ChangesView.Revert">
     <keyboard-shortcut first-keystroke="ctrl alt z" />
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
@@ -34,6 +35,9 @@
   </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+  <action id="ConvertToWebp">
+    <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorDuplicate">
