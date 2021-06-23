@@ -195,6 +195,8 @@
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/shape_ggl_boarder2.xml" value="0.55390625" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/shape_ggl_boarder3.xml" value="0.55390625" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/shape_ggl_marquee.xml" value="0.55390625" />
+        <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/activity_ggl_rank1.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/ggl_fragment_ggl.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/ggl_fragment_rank.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/ggl_item_content.xml" value="0.53125" />
