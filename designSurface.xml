@@ -185,12 +185,15 @@
         <entry key="..\:/Work/NewWeather/Charging/app/src/weather/res/layout/weather_fragment_welfare_partition_prize.xml" value="0.5097222222222222" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable-xxhdpi/ic_back_black.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/ggl_ic_broadcast.xml" value="0.55390625" />
+        <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/ggl_ic_coin.xml" value="0.55390625" />
+        <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/ggl_ic_coin2.xml" value="0.55390625" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/ggl_ic_envelope.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/ggl_ic_right_arrow.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/ggl_shape_marquee.xml" value="0.55390625" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/gll_ic_arrow_gray.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/shape_ggl_boarder.xml" value="0.5412213740458015" />
-        <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/shape_ggl_boarder2.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/shape_ggl_boarder2.xml" value="0.55390625" />
+        <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/shape_ggl_boarder3.xml" value="0.55390625" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/shape_ggl_marquee.xml" value="0.55390625" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/ggl_fragment_ggl.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/ggl_fragment_rank.xml" value="0.53125" />
