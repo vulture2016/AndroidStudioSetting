@@ -145,6 +145,7 @@
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_sunrise_sunset.xml" value="0.3398148148148148" />
         <entry key="..\:/Work/Charging/app/src/main/res/layout/pop_speed_up_complete.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/Charging/app/src/wifi/res/layout/fragment_home.xml" value="0.5" />
+        <entry key="..\:/Work/Charging/fragment/src/main/res/layout/item_marquee.xml" value="0.53125" />
         <entry key="..\:/Work/Charging/ggl/src/main/res/layout/fragment_ggl.xml" value="0.53125" />
         <entry key="..\:/Work/Charging/ggl/src/main/res/layout/item_sign_ggl.xml" value="0.53125" />
         <entry key="..\:/Work/Charging/ggl/src/main/res/layout/pop_sign_ggl.xml" value="0.4361111111111111" />
@@ -153,11 +154,11 @@
         <entry key="..\:/Work/Charging/promote/src/main/res/layout/fragment_promote.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/Charging/promote/src/main/res/layout/fragment_promote_main.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/Charging/promote/src/main/res/layout/share_screenshot_layout.xml" value="0.53125" />
-        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/drawable/shape_marquee.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/drawable/shape_marquee.xml" value="0.55390625" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/activity_fragment_container.xml" value="0.5097222222222222" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/activity_withdraw.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/float_red_envelope.xml" value="0.48055555555555557" />
-        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/fragment_collect_debris.xml" value="0.5152777777777777" />
+        <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/fragment_collect_debris.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/fragment_ggl.xml" value="0.5097222222222222" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/fragment_idiom.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/app/src/main/res/layout/item_banner.xml" value="0.5152777777777777" />
@@ -185,6 +186,7 @@
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable-xxhdpi/ic_back_black.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/ggl_ic_envelope.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/ggl_ic_right_arrow.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/ggl_shape_marquee.xml" value="0.55390625" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/gll_ic_arrow_gray.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/shape_ggl_boarder.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/drawable/shape_ggl_boarder2.xml" value="0.5412213740458015" />
@@ -192,6 +194,7 @@
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/ggl_fragment_ggl.xml" value="0.5180555555555556" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/ggl_item_content.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/ggl_item_ggl.xml" value="0.53125" />
+        <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/ggl_item_marquee.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/ggl_item_title.xml" value="0.48055555555555557" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/ggl_pop_sign_ggl.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/component/ggl/src/main/res/layout/item_ggl_title.xml" value="0.53125" />
