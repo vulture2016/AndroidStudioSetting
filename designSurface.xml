@@ -284,6 +284,9 @@
         <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/item_15day_forecast.xml" value="0.4875" />
         <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/item_sunrise_sunset.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/weather_item.xml" value="0.48194444444444445" />
+        <entry key="..\:/Work/SpeedWeather/component/commres/src/main/res/drawable/bg_receive.xml" value="0.55390625" />
+        <entry key="..\:/Work/SpeedWeather/component/commres/src/main/res/drawable/bg_receive_orange.xml" value="0.55390625" />
+        <entry key="..\:/Work/SpeedWeather/component/commres/src/main/res/drawable/bg_receive_reward.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/module/ggl/src/main/res/drawable/ggl_ic_back.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/SpeedWeather/module/ggl/src/main/res/drawable/ggl_ic_coin.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/module/ggl/src/main/res/drawable/shape_ggl_boarder2.xml" value="0.55390625" />
