@@ -285,6 +285,7 @@
         <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/item_15day_forecast.xml" value="0.4875" />
         <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/item_sunrise_sunset.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/weather_item.xml" value="0.48194444444444445" />
+        <entry key="..\:/Work/SpeedWeather/app/src/main/res/layout/activity_main.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/component/commres/src/main/res/drawable/bg_receive.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/component/commres/src/main/res/drawable/bg_receive_orange.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/component/commres/src/main/res/drawable/bg_receive_reward.xml" value="0.55390625" />
@@ -303,6 +304,9 @@
         <entry key="..\:/Work/SpeedWeather/module/todaycash/src/main/res/layout/pop_today_cash.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/todaycash/src/main/res/layout/todaycash_item_sign.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/todaycash/src/main/res/layout/todaycash_pop_sign.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/weather-core/src/main/res/layout/weather_fragment_city_weather.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/weather-core/src/main/res/layout/weather_item_child_share.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/weather/src/main/res/layout/weather_fragment.xml" value="0.53125" />
       </map>
     </option>
   </component>

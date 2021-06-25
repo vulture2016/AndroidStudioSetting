@@ -53,6 +53,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
+  <action id="ExpandAllRegions" />
   <action id="ExpandAllToLevel1">
     <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="1" />
     <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad1" />
@@ -72,6 +73,26 @@
   <action id="ExpandAllToLevel5">
     <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="5" />
     <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad5" />
+  </action>
+  <action id="ExpandToLevel1">
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="numpad1" />
+  </action>
+  <action id="ExpandToLevel2">
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="2" />
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="numpad2" />
+  </action>
+  <action id="ExpandToLevel3">
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="3" />
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="numpad3" />
+  </action>
+  <action id="ExpandToLevel4">
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="4" />
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="numpad4" />
+  </action>
+  <action id="ExpandToLevel5">
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="5" />
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="numpad5" />
   </action>
   <action id="ExportToTextFile" />
   <action id="FileChooser.GotoHome" />
