@@ -300,8 +300,10 @@
         <entry key="..\:/Work/SpeedWeather/module/ggl/src/main/res/layout/ggl_item_ggl.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/ggl/src/main/res/layout/ggl_item_sign_ggl.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/ggl/src/main/res/layout/ggl_pop_sign_ggl.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/pop_envelope_unopened.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/pop_get_coin.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/pop_withdrawal_opportunity.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_activity_cash_wallet.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/todaycash/src/main/res/drawable/todaycash_bg_btn.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/module/todaycash/src/main/res/drawable/todaycash_ic_wechat.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/module/todaycash/src/main/res/drawable/todaycash_sign_boarder.xml" value="0.55390625" />
