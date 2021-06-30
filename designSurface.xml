@@ -333,7 +333,9 @@
         <entry key="..\:/Work/SpeedWeather/module/todaycash/src/main/res/layout/todaycash_pop_sign.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/weather-core/src/main/res/layout/weather_fragment_city_weather.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/weather-core/src/main/res/layout/weather_item_child_share.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/weather-core/src/main/res/layout/weather_item_today_weather.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/weather/src/main/res/layout/weather_fragment.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/weather/src/main/res/layout/weather_provider_today.xml" value="0.53125" />
       </map>
     </option>
   </component>
