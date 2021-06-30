@@ -285,6 +285,7 @@
         <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/item_15day_forecast.xml" value="0.4875" />
         <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/item_sunrise_sunset.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/weather_item.xml" value="0.48194444444444445" />
+        <entry key="..\:/Work/SpeedWeather/app/src/main/res/drawable/ic_launcher_background.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/app/src/main/res/layout/activity_fragment_container.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/SpeedWeather/app/src/main/res/layout/activity_main.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/component/commres/src/main/res/drawable/bg_receive.xml" value="0.55390625" />
@@ -311,8 +312,11 @@
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_shape_white_20.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_activity_cash_wallet.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_activity_contribution_wallet.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_item_banner.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_pop_share_paper.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_pop_withdrawal_application_successful.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_pop_withdrawing.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_share_screenshot_layout.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/shortvideo/src/main/res/layout/shortvideo_fragment_kw.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/todaycash/src/main/res/drawable/todaycash_bg_btn.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/module/todaycash/src/main/res/drawable/todaycash_ic_close.xml" value="0.55390625" />
