@@ -309,11 +309,13 @@
         <entry key="..\:/Work/SpeedWeather/module/idiom/src/main/res/layout/pop_idiom_result.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/lottery/src/main/res/layout/fragment_lottery.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/drawable/pop_ic_close.xml" value="0.55390625" />
+        <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/drawable/pop_ic_withdrawal_reminder.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/float_red_envelope.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/pop_envelope_opened.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/pop_envelope_unopened.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/pop_get_coin.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/pop_withdrawal_opportunity.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/promote_pop_withdrawal_application_successful.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/promote_pop_withdrawing.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_shape_white_20.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_activity_cash_wallet.xml" value="0.53125" />
