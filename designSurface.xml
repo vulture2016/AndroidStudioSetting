@@ -337,6 +337,7 @@
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_pop_withdrawal_application_successful.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_pop_withdrawing.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_share_screenshot_layout.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/setting/src/main/res/layout/setting_activity_setting.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/shortvideo/src/main/res/layout/shortvideo_fragment_kw.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/todaycash/src/main/res/drawable/todaycash_bg_btn.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/module/todaycash/src/main/res/drawable/todaycash_ic_close.xml" value="0.55390625" />
@@ -348,6 +349,7 @@
         <entry key="..\:/Work/SpeedWeather/module/video-activity/src/main/res/layout/video_activity_item_pop_change_cash.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/video-activity/src/main/res/layout/video_activity_pop__change_cash.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/video-activity/src/main/res/layout/video_activity_pop_withdraw.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/weather-core/src/main/res/layout/weather_activity_settings.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/SpeedWeather/module/weather-core/src/main/res/layout/weather_dialog_share.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/weather-core/src/main/res/layout/weather_fragment_city_weather.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/weather-core/src/main/res/layout/weather_item_child_share.xml" value="0.53125" />
