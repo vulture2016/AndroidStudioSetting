@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="clip" />
       <item value="Represents a generic pair of two values. There is no meaning attached to values in this class, it can be used for any purpose. Pair exhibits value semantics, i.e. two pairs are equal if both components are equal. An example of decomposing it into values: @sample samples.misc.Tuples.pairDestructuring @param A type of the first value. @param B type of the second value. @property first First value. @property second Second value. @constructor Creates a new instance of Pair." />
       <item value="related friends" />
       <item value="relative friends" />
@@ -55,7 +56,6 @@
       <item value="Evaluates the pending bindings, updating any Views that have expressions bound to modified variables. This &lt;b&gt;must&lt;b&gt; be run on the UI thread." />
       <item value="elem" />
       <item value="Placement's Ad is loading." />
-      <item value="No value passed for parameter 'value'" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624933559590" />
+    <option name="lastTrimTime" value="1625466828451" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
