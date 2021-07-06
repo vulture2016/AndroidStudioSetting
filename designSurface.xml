@@ -326,11 +326,26 @@
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/pop_withdrawal_opportunity.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/promote_pop_withdrawal_application_successful.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/promote_pop_withdrawing.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_bg_earn_raiders.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_arrow_right.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_benefit.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_double_arrow_right.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_download.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_home_wechat.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_right_arrow.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_right_arrow2.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_speaker.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_start.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_up.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_shape_promote_marquee.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_shape_white_20.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_activity_cash_wallet.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_activity_contribution_wallet.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_fragment_promote.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_fragment_promote_main.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_item_banner.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_item_earn_raiders.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_item_make_money_contribution.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_item_promote_marquee.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_item_share_type.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/layout/promote_pop_share_paper.xml" value="0.5190839694656488" />
