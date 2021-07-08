@@ -334,8 +334,11 @@
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/pop_withdrawal_opportunity.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/promote_pop_withdrawal_application_successful.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/promote_pop_withdrawing.xml" value="0.53125" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/ic__11.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_bg_earn_raiders.xml" value="0.5412213740458015" />
-        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_arrow_right.xml" value="0.5412213740458015" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_arrow.xml" value="0.55390625" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_arrow_right.xml" value="0.55390625" />
+        <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_arrow_right2.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_benefit.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_double_arrow_right.xml" value="0.5412213740458015" />
         <entry key="..\:/Work/SpeedWeather/module/promote/src/main/res/drawable/promote_ic_download.xml" value="0.5412213740458015" />
