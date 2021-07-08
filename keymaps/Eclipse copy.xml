@@ -120,11 +120,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="JumpToLastChange" />
   <action id="LocalHistory">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
   <action id="MethodOverloadSwitchUp" />
-  <action id="OpenCodotaSearch" />
+  <action id="OpenCodotaSearch">
+    <keyboard-shortcut first-keystroke="shift ctrl alt y" />
+  </action>
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
@@ -134,6 +137,7 @@
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="shift alt f" />
