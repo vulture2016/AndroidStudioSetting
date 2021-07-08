@@ -4,18 +4,9 @@
     <property name="created">2020-10-30T09:52:15</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.0.16</property>
-    <property name="modified">2020-10-30T10:03:41</property>
+    <property name="modified">2021-07-08T16:28:40</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="18" />
@@ -24,6 +15,7 @@
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="18" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="50a14e" />
     <option name="ANNOTATIONS_COLOR" value="232324" />
