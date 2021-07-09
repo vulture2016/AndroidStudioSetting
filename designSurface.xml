@@ -388,7 +388,8 @@
         <entry key="..\:/Work/SpeedWeather/module/weather/src/main/res/layout/weather_city_fragment.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/weather/src/main/res/layout/weather_fragment.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/weather/src/main/res/layout/weather_provider_today.xml" value="0.53125" />
-        <entry key="..\:/Work/UltimateCalendar/app/src/main/res/layout/activity_main.xml" value="0.3487179487179487" />
+        <entry key="..\:/Work/UltimateCalendar/app/src/main/res/layout/activity_main.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/app/src/main/res/layout/activity_splash.xml" value="1.0" />
       </map>
     </option>
   </component>
