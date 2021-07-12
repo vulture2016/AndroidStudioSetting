@@ -142,6 +142,7 @@
         <entry key="..\:/Work Project/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/item_15day_forecast.xml" value="0.53125" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/ic_back.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/ic_current_now.xml" value="0.3692708333333333" />
+        <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_lunar_confirm.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/tab_indicator.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/fish_res/layout/activity_about.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/fish_res/layout/activity_applets_splash.xml" value="0.3541666666666667" />
@@ -155,6 +156,7 @@
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_home.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_important_day.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/header_home_data.xml" value="0.3487179487179487" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_empty_important_day.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_sunrise_sunset.xml" value="0.3398148148148148" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/pop_daily_fortune.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/tab_custom.xml" value="0.3541666666666667" />
@@ -404,7 +406,9 @@
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/fragment_home.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/frgament_home.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable/ic_add_important_day.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable/shape_lunar_confirm.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable/tab_indicator.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/empty_important_day.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/fragment_important_schedule.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/fragment_important_schedule_details.xml" value="1.0" />
       </map>
