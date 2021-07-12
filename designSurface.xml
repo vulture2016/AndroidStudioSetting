@@ -393,10 +393,12 @@
         <entry key="..\:/Work/UltimateCalendar/app/src/main/res/drawable/ic_tab_calendar_normal.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/app/src/main/res/layout/activity_main.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/app/src/main/res/layout/activity_splash.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/component/title-bar/src/main/res/layout/layout_title_bar.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/drawable/ic_arrow_down_white.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/drawable/ic_current_now.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/fragment_home.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/frgament_home.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/fragment_important_schedule.xml" value="1.0" />
       </map>
     </option>
   </component>
