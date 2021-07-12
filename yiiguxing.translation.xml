@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="BELONG" />
       <item value="The following classes could not be instantiated:" />
       <item value="Adds the specified element as the tail (last element) of this list." />
       <item value="Retrieves, but does not remove, the last element of this list, or returns {@code null} if this list is empty. @return the last element of this list, or {@code null} if this list is empty @since 1.6" />
@@ -55,7 +56,6 @@
       <item value="KV CUR VIDEO TIMES" />
       <item value="Callback interface you can use when instantiating a Handler to avoid having to implement your own subclass of Handler." />
       <item value="Detached" />
-      <item value="per" />
     </histories>
     <option name="languageScores">
       <map>
