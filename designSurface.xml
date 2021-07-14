@@ -142,12 +142,16 @@
         <entry key="..\:/Work Project/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/item_15day_forecast.xml" value="0.53125" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/ic_back.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/ic_boy.xml" value="0.3635897435897436" />
+        <entry key="..\:/Work/Calendar/app/fish_res/drawable/ic_change_skin.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/ic_current_now.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/ic_lunar_normal.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/ic_lunar_selected.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/ic_lunar_y.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/ic_right_arrow_gray.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/ic_schedule_edit.xml" value="0.3692708333333333" />
+        <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_cause.xml" value="0.3692708333333333" />
+        <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_love.xml" value="0.3692708333333333" />
+        <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_money.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_lunar_confirm.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_white_8.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_white_8_15.xml" value="0.3692708333333333" />
@@ -158,7 +162,9 @@
         <entry key="..\:/Work/Calendar/app/sdk_res/drawable/ic_small_sunset.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/src/main/res/drawable/arrows_left_ic.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_add_important_day.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_birthday_details.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_important_day.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_memorial_day_details.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_modern.xml" value="0.1" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_schedule_details.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_setting.xml" value="0.3541666666666667" />
@@ -178,6 +184,7 @@
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/pop_repeat_tims.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/tab_custom.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/view_count_down.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/view_timer.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/calendarview/src/main/res/layout/cv_layout_calendar_view.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/CalendarView/app/src/main/res/layout/activity_mix.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/CalendarView/app/src/main/res/layout/activity_test.xml" value="0.3541666666666667" />
@@ -423,6 +430,9 @@
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/drawable/ic_current_now.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/fragment_home.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/frgament_home.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable-xhdpi/ic_change_skin.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable-xhdpi/shape_bg_cause.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable-xhdpi/shape_bg_money.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable/arrows_left_ic.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable/ic_add_important_day.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable/ic_boy.xml" value="1.0" />
@@ -433,11 +443,14 @@
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable/ic_lunar_y.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable/ic_right_arrow_gray.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable/ic_schedule_edit.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable/shape_bg_love.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable/shape_lunar_confirm.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable/shape_white_8.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable/shape_white_8_15.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable/tab_indicator.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/activity_add_important_schedule.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/activity_birthday_details.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/activity_memorial_day_details.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/activity_schedule_details.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/empty_important_day.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/fragment_add_birthday.xml" value="1.0" />
@@ -454,6 +467,7 @@
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/pop_reminder_time.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/pop_repeat_tims.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/view_count_down.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/view_timer.xml" value="1.0" />
       </map>
     </option>
   </component>
