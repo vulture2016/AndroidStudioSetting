@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="erase Color" />
       <item value="Update row(s) in a content URI. If the content provider supports transactions the update will be atomic. @param uri The URI to modify. @param values The new field values. The key is the column name for the field. A null value will remove an existing field value. @param where A filter to apply to rows before updating, formatted as an SQL WHERE clause (excluding the WHERE itself). @return the number of rows updated. @throws NullPointerException if uri or values are null" />
       <item value="BELONG" />
       <item value="The following classes could not be instantiated:" />
@@ -55,7 +56,6 @@
       <item value="remote" />
       <item value="Returns a property delegate to access [ViewModel] by default scoped to this [Fragment]: ``` class MyFragment : Fragment() { val viewmodel: MYViewModel by viewmodels() } ``` Custom [ViewModelProvider.Factory] can be defined via [factoryProducer] parameter, factory returned by it will be used to create [ViewModel]: ``` class MyFragment : Fragment() { val viewmodel: MYViewModel by viewmodels { myFactory } } ``` Default scope may be overridden with parameter [ownerProducer]: ``` class MyFragment : Fragment() { val viewmodel: MYViewModel by viewmodels ({requireParentFragment()}) } ``` This property can be accessed only after this Fragment is attached i.e., after [Fragment.onAttach()], and access prior to that will result in IllegalArgumentException." />
       <item value="KV CUR VIDEO TIMES" />
-      <item value="Callback interface you can use when instantiating a Handler to avoid having to implement your own subclass of Handler." />
     </histories>
     <option name="languageScores">
       <map>
