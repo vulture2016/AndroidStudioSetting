@@ -152,7 +152,7 @@
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_cause.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_love.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_money.xml" value="0.3692708333333333" />
-        <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_lunar_confirm.xml" value="0.3635897435897436" />
+        <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_lunar_confirm.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_white_8.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_white_8_15.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/tab_indicator.xml" value="0.3635897435897436" />
@@ -169,11 +169,13 @@
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_modern.xml" value="0.1" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_schedule_details.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_setting.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/empty_news.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_add_birthday.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_add_memorial_day.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_add_schedule.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_home.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_important_day.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_news.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/header_home_data.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_empty_important_day.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_home_current_date.xml" value="0.3487179487179487" />
@@ -182,10 +184,12 @@
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_important_day.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_reminder_time.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_sunrise_sunset.xml" value="0.3398148148148148" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/native_cpu_view.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/pickerview_custom.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/pop_daily_fortune.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/pop_reminder_time.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/pop_repeat_tims.xml" value="0.3487179487179487" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/srl_news_classics_header.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/tab_custom.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/view_count_down.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/view_timer.xml" value="0.3541666666666667" />
@@ -489,8 +493,14 @@
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/pop_repeat_tims.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/view_count_down.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/view_timer.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/drawable/ic_news_error.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/drawable/shape_lunar_confirm.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/empty_news.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/fragment_news.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/item_news.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/item_news_ad_1.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/native_cpu_view.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/srl_news_classics_header.xml" value="1.0" />
       </map>
     </option>
   </component>
