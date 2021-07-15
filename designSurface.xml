@@ -434,8 +434,10 @@
         <entry key="..\:/Work/UltimateCalendar/module/base/src/main/res/drawable/shape_white_8.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/drawable/ic_arrow_down_white.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/drawable/ic_current_now.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/drawable/ic_right_arrow_red.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/fragment_home.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/frgament_home.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/item_reminder_today.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/item_test.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/item_today.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/drawable-xhdpi/ic_change_skin.xml" value="1.0" />
