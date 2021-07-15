@@ -365,6 +365,8 @@
         <entry key="..\:/Work/SpeedWeather/module/ggl/src/main/res/layout/ggl_pop_sign_ggl.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/idiom/src/main/res/layout/pop_idiom_result.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/lottery/src/main/res/layout/fragment_lottery.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work/SpeedWeather/module/news/src/main/res/layout/fragment_news.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work/SpeedWeather/module/news/src/main/res/layout/native_cpu_view.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/drawable/pop_ic_close.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/drawable/pop_ic_withdrawal_reminder.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/module/pop/src/main/res/layout/float_red_envelope.xml" value="0.53125" />
@@ -499,6 +501,7 @@
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/fragment_news.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/item_news.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/item_news_ad_1.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/layout_load_more.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/native_cpu_view.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/srl_news_classics_header.xml" value="1.0" />
       </map>
