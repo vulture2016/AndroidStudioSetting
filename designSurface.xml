@@ -151,6 +151,7 @@
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/ic_schedule_edit.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_cause.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_love.xml" value="0.3692708333333333" />
+        <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_lunar.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_money.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_lunar_confirm.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_white_8.xml" value="0.3635897435897436" />
@@ -178,6 +179,7 @@
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_important_day.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_news.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/header_home_data.xml" value="0.3487179487179487" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/header_lunar_tools.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_empty_important_day.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_home_current_date.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_home_important_day.xml" value="0.3487179487179487" />
@@ -185,6 +187,8 @@
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_important_day.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_reminder_time.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/item_sunrise_sunset.xml" value="0.3398148148148148" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/lunar_item_header_date.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/lunar_item_yj.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/native_cpu_view.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/pickerview_custom.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/pop_daily_fortune.xml" value="0.3487179487179487" />
@@ -504,7 +508,10 @@
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/pop_repeat_tims.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/view_count_down.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/important-schedule/src/main/res/layout/view_timer.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/luanr/src/main/res/drawable/ic_lunar_arrow_left.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/luanr/src/main/res/drawable/ic_lunar_arrow_right.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/luanr/src/main/res/drawable/ic_share.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/luanr/src/main/res/drawable/shape_bg_lunar.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/luanr/src/main/res/layout/fragment_lunar.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/luanr/src/main/res/layout/lunar_item_lunar.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/drawable/ic_news_error.xml" value="1.0" />
