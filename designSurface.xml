@@ -173,6 +173,7 @@
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_add_birthday.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_add_memorial_day.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_add_schedule.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_child_weather.xml" value="1.0" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_home.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_important_day.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/fragment_news.xml" value="0.3487179487179487" />
@@ -439,9 +440,11 @@
         <entry key="..\:/Work/UltimateCalendar/component/commres/src/main/res/drawable/bg_receive.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/component/commres/src/main/res/drawable/bg_receive_orange.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/component/commres/src/main/res/drawable/bg_receive_reward.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/component/schedule/src/main/res/layout/pickerview_custom.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/component/title-bar/src/main/res/drawable/ic_back.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/component/title-bar/src/main/res/layout/layout_title_bar.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/base/src/main/res/drawable/ic_lunar_j.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/base/src/main/res/drawable/ic_lunar_selected.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/base/src/main/res/drawable/ic_lunar_y.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/base/src/main/res/drawable/shape_white_8.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/drawable/ic_add_news.xml" value="1.0" />
