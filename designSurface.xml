@@ -150,10 +150,16 @@
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/ic_right_arrow_gray.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/ic_schedule_edit.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_cause.xml" value="0.3692708333333333" />
+        <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_common_lp_position.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_love.xml" value="0.3692708333333333" />
+        <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_lp_position.xml" value="0.3692708333333333" />
+        <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_lp_position_hollow.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_lunar.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_bg_money.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_lunar_confirm.xml" value="0.3692708333333333" />
+        <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_lunar_time.xml" value="0.3692708333333333" />
+        <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_lunar_time_jx.xml" value="0.3692708333333333" />
+        <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_lunar_time_jx2.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_white_8.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/shape_white_8_15.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/fish_res/drawable/tab_indicator.xml" value="0.3635897435897436" />
@@ -162,6 +168,8 @@
         <entry key="..\:/Work/Calendar/app/fish_res/layout/date_details_fragment.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/fish_res/layout/item_home_y_j.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/fish_res/layout/item_lunar_yj.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work/Calendar/app/fish_res/layout/layout_compass_external.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work/Calendar/app/fish_res/layout/layout_compass_view.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/sdk_res/drawable/ic_add_important_day.xml" value="0.3635897435897436" />
         <entry key="..\:/Work/Calendar/app/sdk_res/drawable/ic_add_news.xml" value="0.3692708333333333" />
         <entry key="..\:/Work/Calendar/app/sdk_res/drawable/ic_small_sunset.xml" value="0.3635897435897436" />
@@ -169,6 +177,7 @@
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_add_important_day.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_birthday_details.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_important_day.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_luo.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_memorial_day_details.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_modern.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_schedule_details.xml" value="0.3541666666666667" />
@@ -468,6 +477,15 @@
         <entry key="..\:/Work/UltimateCalendar/module/base/src/main/res/drawable/ic_right_arrow_red.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/base/src/main/res/drawable/shape_white_8.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/base/src/main/res/drawable/shape_white_8_0.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/base/src/main/res/layout/pop_view_result.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/compass/src/main/res/drawable/shape_bg_common_lp_position.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/compass/src/main/res/drawable/shape_bg_lp_position_hollow.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/compass/src/main/res/drawable/shape_lunar_time.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/compass/src/main/res/drawable/shape_lunar_time_jx.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/compass/src/main/res/drawable/shape_lunar_time_jx2.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/compass/src/main/res/layout/activity_luo.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/compass/src/main/res/layout/layout_compass_external.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/compass/src/main/res/layout/layout_compass_view.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/drawable/ic_add_news.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/drawable/ic_alarm_clock.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/drawable/ic_arrow_down_white.xml" value="1.0" />
