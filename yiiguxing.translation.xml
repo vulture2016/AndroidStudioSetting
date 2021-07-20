@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Please adapt the scoped storage, or use the MANAGE_EXTERNAL_STORAGE permission" />
+      <item value="allowed" />
       <item value="Debouncing" />
       <item value="AUSPICIOUS DAYS" />
       <item value="milliseconds" />
@@ -54,8 +56,6 @@
       <item value="The binary version of its metadata is 1.5.1" />
       <item value="expected version" />
       <item value="winning Marquee" />
-      <item value="中奖广告" />
-      <item value="中奖" />
     </histories>
     <option name="languageScores">
       <map>
