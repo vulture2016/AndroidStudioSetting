@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Fake" />
       <item value="Represents a generic pair of two values. There is no meaning attached to values in this class, it can be used for any purpose. Pair exhibits value semantics, i.e. two pairs are equal if both components are equal. An example of decomposing it into values: @sample samples.misc.Tuples.pairDestructuring @param A type of the first value. @param B type of the second value. @property first First value. @property second Second value. @constructor Creates a new instance of Pair." />
       <item value="Creates a tuple of type [Pair] from this and [that]." />
       <item value="Intersect the current clip with the specified rectangle, which is expressed in local coordinates." />
@@ -55,7 +56,6 @@
       <item value="recommend" />
       <item value="CONTRIBUTION" />
       <item value="Creates a new instance of the [Lazy] that uses the specified initialization function [initializer] and the default thread-safety mode [LazyThreadSafetyMode.SYNCHRONIZED]. If the initialization of a value throws an exception, it will attempt to reinitialize the value at next access. Note that the returned instance uses itself to synchronize on. Do not synchronize from external code on the returned instance as it may cause accidental deadlock. Also this behavior can be changed in the future." />
-      <item value="Deprecated" />
     </histories>
     <option name="languageScores">
       <map>
