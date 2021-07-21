@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Intersect the current clip with the specified rectangle, which is expressed in local coordinates." />
       <item value="intrinsic" />
       <item value="noinspection" />
       <item value="Please adapt the scoped storage, or use the MANAGE_EXTERNAL_STORAGE permission" />
@@ -55,7 +56,6 @@
       <item value="Creates a new instance of the [Lazy] that uses the specified initialization function [initializer] and the default thread-safety mode [LazyThreadSafetyMode.SYNCHRONIZED]. If the initialization of a value throws an exception, it will attempt to reinitialize the value at next access. Note that the returned instance uses itself to synchronize on. Do not synchronize from external code on the returned instance as it may cause accidental deadlock. Also this behavior can be changed in the future." />
       <item value="Deprecated" />
       <item value="An annotation argument must be a compile-time constant" />
-      <item value="The binary version of its metadata is 1.5.1" />
     </histories>
     <option name="languageScores">
       <map>
