@@ -467,6 +467,11 @@
         <entry key="..\:/Work/SpeedWeather/module/weather/src/main/res/layout/weather_provider_news.xml" value="0.5190839694656488" />
         <entry key="..\:/Work/SpeedWeather/module/weather/src/main/res/layout/weather_provider_today.xml" value="0.53125" />
         <entry key="..\:/Work/UltimateCalendar/app/src/main/res/drawable/ic_tab_calendar_normal.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/app/src/main/res/drawable/ic_tab_calendar_selected.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/app/src/main/res/drawable/ic_tab_lunar_normal.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/app/src/main/res/drawable/ic_tab_lunar_selected.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/app/src/main/res/drawable/ic_tab_video_normal.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/app/src/main/res/drawable/ic_tab_weather_normal.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/app/src/main/res/layout/activity_main.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/app/src/main/res/layout/activity_splash.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/component/commres/src/main/res/drawable/bg_receive.xml" value="1.0" />
@@ -511,6 +516,7 @@
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/drawable/ic_right_arrow_red.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/fragment_home.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/frgament_home.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/home_item_ad.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/home_item_calendar.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/home_item_news.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/item_news.xml" value="1.0" />
