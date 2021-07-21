@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="intrinsic" />
+      <item value="noinspection" />
       <item value="Please adapt the scoped storage, or use the MANAGE_EXTERNAL_STORAGE permission" />
       <item value="allowed" />
       <item value="Debouncing" />
@@ -54,8 +56,6 @@
       <item value="Deprecated" />
       <item value="An annotation argument must be a compile-time constant" />
       <item value="The binary version of its metadata is 1.5.1" />
-      <item value="expected version" />
-      <item value="winning Marquee" />
     </histories>
     <option name="languageScores">
       <map>
@@ -79,6 +79,7 @@
         <option name="primaryLanguage" value="CHINESE" />
       </app-key>
     </option>
+    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="primaryLanguage" value="AUTO" />
