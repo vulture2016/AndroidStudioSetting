@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="lunar" />
       <item value="auspicious days" />
       <item value="Fold" />
       <item value="Adds all of the elements of the specified collection to the end of this list. The elements are appended in the order they appear in the [elements] collection. @return `true` if the list was changed as the result of the operation." />
@@ -55,7 +56,6 @@
       <item value="Leader Board" />
       <item value="Cannot provide null context for the database." />
       <item value="scope" />
-      <item value="payee Name" />
     </histories>
     <option name="languageScores">
       <map>
