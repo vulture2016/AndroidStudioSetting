@@ -373,7 +373,7 @@
         <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/item_sunrise_sunset.xml" value="0.53125" />
         <entry key="..\:/Work/NewWeather/Charging/weather-model-collection/weather_view/src/main/res/layout/weather_item.xml" value="0.48194444444444445" />
         <entry key="..\:/Work/SpeedWeather/app/src/main/res/drawable/ic_launcher_background.xml" value="0.55390625" />
-        <entry key="..\:/Work/SpeedWeather/app/src/main/res/layout/activity_fragment_container.xml" value="0.5190839694656488" />
+        <entry key="..\:/Work/SpeedWeather/app/src/main/res/layout/activity_fragment_container.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/app/src/main/res/layout/activity_main.xml" value="0.53125" />
         <entry key="..\:/Work/SpeedWeather/component/commres/src/main/res/drawable/bg_receive.xml" value="0.55390625" />
         <entry key="..\:/Work/SpeedWeather/component/commres/src/main/res/drawable/bg_receive_orange.xml" value="0.55390625" />
@@ -472,6 +472,7 @@
         <entry key="..\:/Work/UltimateCalendar/app/src/main/res/drawable/ic_tab_lunar_selected.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/app/src/main/res/drawable/ic_tab_video_normal.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/app/src/main/res/drawable/ic_tab_weather_normal.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/app/src/main/res/layout/activity_fragment_container.xml" value="0.1" />
         <entry key="..\:/Work/UltimateCalendar/app/src/main/res/layout/activity_main.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/app/src/main/res/layout/activity_splash.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/component/commres/src/main/res/drawable/bg_receive.xml" value="1.0" />
@@ -490,6 +491,7 @@
         <entry key="..\:/Work/UltimateCalendar/module/base/src/main/res/drawable/ic_right_arrow_red.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/base/src/main/res/drawable/shape_white_8.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/base/src/main/res/drawable/shape_white_8_0.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/base/src/main/res/layout/activity_fragment_container.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/base/src/main/res/layout/pop_view_result.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/compass/src/main/res/drawable/shape_bg_common_lp_position.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/compass/src/main/res/drawable/shape_bg_lp_position_hollow.xml" value="1.0" />
