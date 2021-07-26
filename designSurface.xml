@@ -596,8 +596,11 @@
         <entry key="..\:/Work/UltimateCalendar/module/modern-lunar/src/main/res/layout/item_modern_text_title.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/drawable/ic_news_error.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/drawable/shape_lunar_confirm.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/activity_edit_news_category.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/empty_news.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/fragment_news.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/item_channel.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/item_channel_title.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/item_news.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/item_news_ad_1.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/news/src/main/res/layout/layout_load_more.xml" value="1.0" />
