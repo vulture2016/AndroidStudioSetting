@@ -182,6 +182,7 @@
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_add_important_day.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_birthday_details.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_date_conversion.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_history_today.xml" value="0.3487179487179487" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_important_day.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_luo.xml" value="0.3541666666666667" />
         <entry key="..\:/Work/Calendar/app/src/main/res/layout/activity_memorial_day_details.xml" value="0.3541666666666667" />
@@ -522,6 +523,7 @@
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/drawable/ic_right_arrow_gray.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/drawable/ic_right_arrow_red.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/drawable/shape_gray_dash.xml" value="1.0" />
+        <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/activity_history_today.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/fragment_home.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/frgament_home.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/home/src/main/res/layout/home_item_ad.xml" value="1.0" />
