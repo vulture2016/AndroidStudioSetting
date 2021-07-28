@@ -621,7 +621,9 @@
         <entry key="..\:/Work/UltimateCalendar/module/time-good-or-bad/src/main/res/layout/item_time_modern_y_j_content.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/time-good-or-bad/src/main/res/layout/item_time_y_j.xml" value="1.0" />
         <entry key="..\:/Work/UltimateCalendar/module/yiji/src/main/res/layout/activity_opt.xml" value="1.0" />
-        <entry key="..\:/Work/WIFISendBlessings/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Work/WIFISendBlessings/app/src/main/res/layout/activity_main.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work/WIFISendBlessings/app/src/main/res/layout/activity_splash.xml" value="0.3541666666666667" />
+        <entry key="..\:/Work/WIFISendBlessings/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3692708333333333" />
       </map>
     </option>
   </component>
