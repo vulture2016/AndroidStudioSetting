@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="indeterminate" />
       <item value="Execution can walk off end of code area" />
       <item value="Constellation" />
       <item value="Adds a LifecycleObserver that will be notified when the LifecycleOwner changes state. &lt;p&gt; The given observer will be brought to the current state of the LifecycleOwner. For example, if the LifecycleOwner is in {@link StateSTARTED} state, the given observer will receive {@link EventON_CREATE}, {@link EventON_START} events. @param observer The observer to notify." />
@@ -55,7 +56,6 @@
       <item value="condition" />
       <item value="rank" />
       <item value="internal" />
-      <item value="rank num" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627282161559" />
+    <option name="lastTrimTime" value="1627962932496" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
