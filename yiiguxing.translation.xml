@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="needle" />
       <item value="thickness Ratio" />
       <item value="indeterminate" />
       <item value="Execution can walk off end of code area" />
@@ -55,7 +56,6 @@
       <item value="core" />
       <item value="week" />
       <item value="condition" />
-      <item value="rank" />
     </histories>
     <option name="languageScores">
       <map>
