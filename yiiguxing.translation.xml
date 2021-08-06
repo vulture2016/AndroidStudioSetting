@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Encrypt" />
       <item value="Space is a lightweight View subclass that may be used to create gaps between components in general purpose layouts." />
       <item value="in general purpose layouts." />
       <item value="When the animation reaches the end and &lt;code&gt;repeatCount&lt;code&gt; is INFINITE or a positive value, the animation reverses direction on every iteration." />
@@ -55,7 +56,6 @@
       <item value="addition" />
       <item value="Notified when a tap occurs with the up {@link MotionEvent} that triggered it. @param e The up motion event that completed the first tap @return true if the event is consumed, else false" />
       <item value="on Single Tap Up" />
-      <item value="Move the task containing this activity to the back of the activity stack. The activity's order within the task is unchanged. @param nonRoot If false then this only works if the activity is the root of a task; if true it will work for any activity in a task. @return If the task was moved (or it was already at the back) true is returned, else false." />
     </histories>
     <option name="languageScores">
       <map>
