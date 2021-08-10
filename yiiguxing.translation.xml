@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="PAGE TYPE" />
       <item value="hidden Yellow Btn" />
       <item value="IS OPEN SYSTEM PUSH" />
       <item value="decrypt" />
@@ -55,7 +56,6 @@
       <item value="领取" />
       <item value="Sorts elements in the list in-place descending according to natural sort order of the value returned by specified [selector] function." />
       <item value="Sorts elements in the list in-place according to natural sort order of the value returned by specified [selector] function." />
-      <item value="Colon" />
     </histories>
     <option name="languageScores">
       <map>
@@ -79,7 +79,6 @@
         <option name="primaryLanguage" value="CHINESE" />
       </app-key>
     </option>
-    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="primaryLanguage" value="AUTO" />
