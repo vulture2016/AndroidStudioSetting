@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="conversation" />
       <item value="coerce" />
       <item value="STORAGE" />
       <item value="旋转" />
@@ -55,7 +56,6 @@
       <item value="trunk" />
       <item value="Case" />
       <item value="Static Field Leak" />
-      <item value="large price" />
     </histories>
     <option name="languageScores">
       <map>
