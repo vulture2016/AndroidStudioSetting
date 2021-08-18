@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="remind birthday number" />
       <item value="conversation" />
       <item value="coerce" />
       <item value="STORAGE" />
@@ -55,7 +56,6 @@
       <item value="relative" />
       <item value="trunk" />
       <item value="Case" />
-      <item value="Static Field Leak" />
     </histories>
     <option name="languageScores">
       <map>
