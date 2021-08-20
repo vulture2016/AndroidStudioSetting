@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Set the number of offscreen views to retain before adding them to the potentially shared {@link getRecycledViewPool() recycled view pool}. &lt;p&gt;The offscreen view cache stays aware of changes in the attached adapter, allowing a LayoutManager to reuse those views unmodified without needing to return to the adapter to rebind them.&lt;p&gt; @param size Number of views to cache offscreen before returning them to the general recycled view pool" />
       <item value="remind birthday number" />
       <item value="conversation" />
       <item value="coerce" />
@@ -55,7 +56,6 @@
       <item value="relative friends" />
       <item value="relative" />
       <item value="trunk" />
-      <item value="Case" />
     </histories>
     <option name="languageScores">
       <map>
