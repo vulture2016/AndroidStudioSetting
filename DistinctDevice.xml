@@ -1,12 +1,12 @@
 <application>
   <component name="DistinctDevice">
-    <option name="androidVersion" value="10" />
+    <option name="androidVersion" value="9" />
     <option name="deviceForm" value="PHYSICAL" />
     <option name="deviceType" value="PHONE" />
-    <option name="emui" value="10.0.0" />
-    <option name="model" value="tas-al00" />
-    <option name="phoneName" value="mate 30" />
-    <option name="xres" value="1080" />
-    <option name="yres" value="2340" />
+    <option name="emui" value="9.1.1" />
+    <option name="model" value="ask-al00x" />
+    <option name="phoneName" value="荣耀play3" />
+    <option name="xres" value="720" />
+    <option name="yres" value="1560" />
   </component>
 </application>
