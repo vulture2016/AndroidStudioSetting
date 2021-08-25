@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="verse" />
       <item value="Enable nested scrolling. &lt;p&gt;This is a delegate method. Call it from your {@link android.view.View View} subclass method{@link androidx.core.view.NestedScrollingChild} interface method with the same signature to implement the standard policy.&lt;p&gt; @param enabled true to enable nested scrolling dispatch from this view, false otherwise" />
       <item value="poems" />
       <item value="ancient" />
@@ -55,7 +56,6 @@
       <item value="Adds the specified element as the tail (last element) of this list." />
       <item value="Retrieves, but does not remove, the last element of this list, or returns {@code null} if this list is empty. @return the last element of this list, or {@code null} if this list is empty @since 1.6" />
       <item value="clip" />
-      <item value="related friends" />
     </histories>
     <option name="languageScores">
       <map>
