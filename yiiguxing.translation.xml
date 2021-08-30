@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Update" />
+      <item value="Upgrade" />
       <item value="Indicates whether this View is currently in edit mode. A View is usually in edit mode when displayed within a developer tool. For instance, if this View is being drawn by a visual user interface builder, this method should return true. Subclasses should check the return value of this method to provide different behaviors if their normal behavior might interfere with the host environment. For instance: the class spawns a thread in its constructor, the drawing code relies on device-specific features, etc. This method is usually checked in the drawing code of custom widgets. @return True if this View is in edit mode, false otherwise." />
       <item value="Retrieve a dimensional unit attribute at &lt;var&gt;index&lt;var&gt;. Unit conversions are based on the current {@link DisplayMetrics} associated with the resources this {@link TypedArray} object came from. &lt;p&gt; This method will throw an exception if the attribute is defined but is not a dimension. @param index Index of attribute to retrieve. @param defValue Value to return if the attribute is not defined or not a resource. @return Attribute dimension value multiplied by the appropriate metric, or defValue if not defined. @throws RuntimeException if the TypedArray has already been recycled. @throws UnsupportedOperationException if the attribute is defined but is not an integer. @see getDimensionPixelOffset @see getDimensionPixelSize" />
       <item value="ROW" />
@@ -54,8 +56,6 @@
       <item value="memorial day" />
       <item value="erase Color" />
       <item value="Update row(s) in a content URI. If the content provider supports transactions the update will be atomic. @param uri The URI to modify. @param values The new field values. The key is the column name for the field. A null value will remove an existing field value. @param where A filter to apply to rows before updating, formatted as an SQL WHERE clause (excluding the WHERE itself). @return the number of rows updated. @throws NullPointerException if uri or values are null" />
-      <item value="BELONG" />
-      <item value="The following classes could not be instantiated:" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629777498476" />
+    <option name="lastTrimTime" value="1630303220208" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
