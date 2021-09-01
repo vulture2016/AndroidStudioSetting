@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="obtain" />
       <item value="Server" />
       <item value="Update" />
       <item value="Upgrade" />
@@ -55,7 +56,6 @@
       <item value="AUSPICIOUS DAYS" />
       <item value="milliseconds" />
       <item value="memorial day" />
-      <item value="erase Color" />
     </histories>
     <option name="languageScores">
       <map>
