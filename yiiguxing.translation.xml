@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="is Already Added" />
       <item value="obtain" />
       <item value="Server" />
       <item value="Update" />
@@ -55,7 +56,6 @@
       <item value="Debouncing" />
       <item value="AUSPICIOUS DAYS" />
       <item value="milliseconds" />
-      <item value="memorial day" />
     </histories>
     <option name="languageScores">
       <map>
@@ -79,7 +79,6 @@
         <option name="primaryLanguage" value="CHINESE" />
       </app-key>
     </option>
-    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="primaryLanguage" value="AUTO" />
