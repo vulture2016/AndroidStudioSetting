@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="duration" />
       <item value="Adds all of the elements of the specified collection to the end of this list. The elements are appended in the order they appear in the [elements] collection. @return `true` if the list was changed as the result of the operation." />
       <item value="is Already Added" />
       <item value="obtain" />
@@ -55,7 +56,6 @@
       <item value="allowed" />
       <item value="Debouncing" />
       <item value="AUSPICIOUS DAYS" />
-      <item value="milliseconds" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630303220208" />
+    <option name="lastTrimTime" value="1630837415809" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
