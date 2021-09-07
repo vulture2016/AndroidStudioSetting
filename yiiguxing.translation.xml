@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="compress" />
       <item value="Logic" />
       <item value="duration" />
       <item value="Adds all of the elements of the specified collection to the end of this list. The elements are appended in the order they appear in the [elements] collection. @return `true` if the list was changed as the result of the operation." />
@@ -55,7 +56,6 @@
       <item value="noinspection" />
       <item value="Please adapt the scoped storage, or use the MANAGE_EXTERNAL_STORAGE permission" />
       <item value="allowed" />
-      <item value="Debouncing" />
     </histories>
     <option name="languageScores">
       <map>
