@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="source exhausted prematurely" />
       <item value="compress" />
       <item value="Logic" />
       <item value="duration" />
@@ -55,7 +56,6 @@
       <item value="intrinsic" />
       <item value="noinspection" />
       <item value="Please adapt the scoped storage, or use the MANAGE_EXTERNAL_STORAGE permission" />
-      <item value="allowed" />
     </histories>
     <option name="languageScores">
       <map>
