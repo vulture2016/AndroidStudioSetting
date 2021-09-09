@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="453" />
-    <option name="newTranslationDialogWidth" value="791" />
+    <option name="newTranslationDialogWidth" value="789" />
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Choose Cover Delegate" />
       <item value="source exhausted prematurely" />
       <item value="compress" />
       <item value="Logic" />
@@ -55,7 +56,6 @@
       <item value="Intersect the current clip with the specified rectangle, which is expressed in local coordinates." />
       <item value="intrinsic" />
       <item value="noinspection" />
-      <item value="Please adapt the scoped storage, or use the MANAGE_EXTERNAL_STORAGE permission" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,6 +78,11 @@
       <app-key>
         <option name="primaryLanguage" value="CHINESE" />
       </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </google-translate>
     </option>
     <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="youdaoTranslateSettings">
