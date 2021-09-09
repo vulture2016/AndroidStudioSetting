@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Hint to the compressor, 0-100. 0 meaning compress for small size, 100 meaning compress for max quality. Some formats, like PNG which is lossless, will ignore the quality setting" />
       <item value="Choose Cover Delegate" />
       <item value="source exhausted prematurely" />
       <item value="compress" />
@@ -55,7 +56,6 @@
       <item value="Creates a tuple of type [Pair] from this and [that]." />
       <item value="Intersect the current clip with the specified rectangle, which is expressed in local coordinates." />
       <item value="intrinsic" />
-      <item value="noinspection" />
     </histories>
     <option name="languageScores">
       <map>
