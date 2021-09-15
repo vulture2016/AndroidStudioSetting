@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Removes characters in the specified range from this string builder and returns this instance. @param startIndex the beginning (inclusive) of the range to remove. @param endIndex the end (exclusive) of the range to remove. @throws IndexOutOfBoundsException or [IllegalArgumentException] when [startIndex] is out of range of this string builder indices or when `startIndex &gt; endIndex`." />
       <item value="get Start Time" />
       <item value="book Adapter" />
       <item value="Failed to find configured root that contains datadatacom.fish.ancient.poemscacheshare1631676003805.png" />
@@ -55,7 +56,6 @@
       <item value="lunar" />
       <item value="auspicious days" />
       <item value="Fold" />
-      <item value="predicate" />
     </histories>
     <option name="languageScores">
       <map>
