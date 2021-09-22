@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="component" />
       <item value="This field leaks a context object" />
       <item value="Dubbing" />
       <item value="Removes characters in the specified range from this string builder and returns this instance. @param startIndex the beginning (inclusive) of the range to remove. @param endIndex the end (exclusive) of the range to remove. @throws IndexOutOfBoundsException or [IllegalArgumentException] when [startIndex] is out of range of this string builder indices or when `startIndex &gt; endIndex`." />
@@ -55,7 +56,6 @@
       <item value="Adds a LifecycleObserver that will be notified when the LifecycleOwner changes state. &lt;p&gt; The given observer will be brought to the current state of the LifecycleOwner. For example, if the LifecycleOwner is in {@link StateSTARTED} state, the given observer will receive {@link EventON_CREATE}, {@link EventON_START} events. @param observer The observer to notify." />
       <item value="scroll to news" />
       <item value="SCROLLER TO NEWS" />
-      <item value="lunar" />
     </histories>
     <option name="languageScores">
       <map>
