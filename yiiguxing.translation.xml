@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="&quot;please invoke [payservice] initwxsecret method first&quot;" />
+      <item value="please invoke init [PayService] initWxSecret method first" />
       <item value="Calls the specified function [block] with `this` value as its argument and returns `this` value. For detailed usage information see the documentation for [scope functions](https:kotlinlang.orgdocsreferencescope-functions.htmlalso)." />
       <item value="component" />
       <item value="This field leaks a context object" />
@@ -54,8 +56,6 @@
       <item value="indeterminate" />
       <item value="Execution can walk off end of code area" />
       <item value="Constellation" />
-      <item value="Adds a LifecycleObserver that will be notified when the LifecycleOwner changes state. &lt;p&gt; The given observer will be brought to the current state of the LifecycleOwner. For example, if the LifecycleOwner is in {@link StateSTARTED} state, the given observer will receive {@link EventON_CREATE}, {@link EventON_START} events. @param observer The observer to notify." />
-      <item value="scroll to news" />
     </histories>
     <option name="languageScores">
       <map>
