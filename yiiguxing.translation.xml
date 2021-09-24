@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="purple" />
       <item value="&quot;please invoke [payservice] initwxsecret method first&quot;" />
       <item value="please invoke init [PayService] initWxSecret method first" />
       <item value="Calls the specified function [block] with `this` value as its argument and returns `this` value. For detailed usage information see the documentation for [scope functions](https:kotlinlang.orgdocsreferencescope-functions.htmlalso)." />
@@ -55,7 +56,6 @@
       <item value="thickness Ratio" />
       <item value="indeterminate" />
       <item value="Execution can walk off end of code area" />
-      <item value="Constellation" />
     </histories>
     <option name="languageScores">
       <map>
