@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Sets the x location of the point around which the view is {@link setRotation(float) rotated} and {@link setScaleX(float) scaled}. By default, the pivot point is centered on the object. Setting this property disables this behavior and causes the view to use only the explicitly set pivotX and pivotY values. @param pivotX The x location of the pivot point. @see getRotation() @see getScaleX() @see getScaleY() @see getPivotY() @attr ref android.R.styleableView_transformPivotX" />
       <item value="Kotlin Null Pointer Exception" />
       <item value="purple" />
       <item value="&quot;please invoke [payservice] initwxsecret method first&quot;" />
@@ -55,7 +56,6 @@
       <item value="When the animation reaches the end and &lt;code&gt;repeatCount&lt;code&gt; is INFINITE or a positive value, the animation reverses direction on every iteration." />
       <item value="needle" />
       <item value="thickness Ratio" />
-      <item value="indeterminate" />
     </histories>
     <option name="languageScores">
       <map>
