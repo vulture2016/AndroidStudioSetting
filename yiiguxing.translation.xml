@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Kotlin Null Pointer Exception" />
       <item value="purple" />
       <item value="&quot;please invoke [payservice] initwxsecret method first&quot;" />
       <item value="please invoke init [PayService] initWxSecret method first" />
@@ -55,7 +56,6 @@
       <item value="needle" />
       <item value="thickness Ratio" />
       <item value="indeterminate" />
-      <item value="Execution can walk off end of code area" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632292456773" />
+    <option name="lastTrimTime" value="1632727106778" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
