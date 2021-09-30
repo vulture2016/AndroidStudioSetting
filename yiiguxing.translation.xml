@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="INVALID OFFSET" />
+      <item value="While trying to find next view to focus, LayoutManager will not try to scroll more than this factor times the total space of the list. If layout is vertical, total space is the height minus padding, if layout is horizontal, total space is the width minus padding." />
       <item value="delta" />
       <item value="Justifies wheel" />
       <item value="true if corresponding item exists and is added" />
@@ -54,8 +56,6 @@
       <item value="hidden Yellow Btn" />
       <item value="IS OPEN SYSTEM PUSH" />
       <item value="decrypt" />
-      <item value="Encrypt" />
-      <item value="Space is a lightweight View subclass that may be used to create gaps between components in general purpose layouts." />
     </histories>
     <option name="languageScores">
       <map>
