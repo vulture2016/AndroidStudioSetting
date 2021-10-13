@@ -82,7 +82,6 @@
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="CHINESE" />
-        <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
     <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
