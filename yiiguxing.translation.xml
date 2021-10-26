@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="dash Gap" />
+      <item value="dash Width" />
       <item value="ERR AUTH DENIED" />
       <item value="IncludedLayouts has protected access in ViewDataBinding" />
       <item value="coerce At Least" />
@@ -54,13 +56,11 @@
       <item value="Retrieve a dimensional unit attribute at &lt;var&gt;index&lt;var&gt;. Unit conversions are based on the current {@link DisplayMetrics} associated with the resources this {@link TypedArray} object came from. &lt;p&gt; This method will throw an exception if the attribute is defined but is not a dimension. @param index Index of attribute to retrieve. @param defValue Value to return if the attribute is not defined or not a resource. @return Attribute dimension value multiplied by the appropriate metric, or defValue if not defined. @throws RuntimeException if the TypedArray has already been recycled. @throws UnsupportedOperationException if the attribute is defined but is not an integer. @see getDimensionPixelOffset @see getDimensionPixelSize" />
       <item value="ROW" />
       <item value="verse" />
-      <item value="Enable nested scrolling. &lt;p&gt;This is a delegate method. Call it from your {@link android.view.View View} subclass method{@link androidx.core.view.NestedScrollingChild} interface method with the same signature to implement the standard policy.&lt;p&gt; @param enabled true to enable nested scrolling dispatch from this view, false otherwise" />
-      <item value="poems" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="289" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
