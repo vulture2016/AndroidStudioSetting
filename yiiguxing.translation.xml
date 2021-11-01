@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Optimizations" />
       <item value="至尊款" />
       <item value="addressee" />
       <item value="award" />
@@ -55,12 +56,11 @@
       <item value="Server" />
       <item value="Update" />
       <item value="Upgrade" />
-      <item value="Indicates whether this View is currently in edit mode. A View is usually in edit mode when displayed within a developer tool. For instance, if this View is being drawn by a visual user interface builder, this method should return true. Subclasses should check the return value of this method to provide different behaviors if their normal behavior might interfere with the host environment. For instance: the class spawns a thread in its constructor, the drawing code relies on device-specific features, etc. This method is usually checked in the drawing code of custom widgets. @return True if this View is in edit mode, false otherwise." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="ENGLISH" value="291" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635218679380" />
+    <option name="lastTrimTime" value="1635745314063" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
