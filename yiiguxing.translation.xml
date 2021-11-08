@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Duplicate" />
       <item value="tools:replace specified at line:90 for attribute android:resource, but no new value specified" />
       <item value="intrinsic Height" />
       <item value="limit time offer" />
@@ -55,12 +56,11 @@
       <item value="duration" />
       <item value="Adds all of the elements of the specified collection to the end of this list. The elements are appended in the order they appear in the [elements] collection. @return `true` if the list was changed as the result of the operation." />
       <item value="is Already Added" />
-      <item value="obtain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="294" />
+        <entry key="ENGLISH" value="295" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635745314063" />
+    <option name="lastTrimTime" value="1636358825613" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
