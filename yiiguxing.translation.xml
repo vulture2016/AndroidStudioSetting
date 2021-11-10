@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="unresolved supertypes" />
+      <item value="Adding -Xextended-compiler-checks argument might provide additional information." />
+      <item value="Supertypes of the following classes cannot be resolved." />
+      <item value="Please make sure you have the required dependencies in the classpath:" />
       <item value="Duplicate" />
       <item value="tools:replace specified at line:90 for attribute android:resource, but no new value specified" />
       <item value="intrinsic Height" />
@@ -52,15 +56,11 @@
       <item value="Choose Cover Delegate" />
       <item value="source exhausted prematurely" />
       <item value="compress" />
-      <item value="Logic" />
-      <item value="duration" />
-      <item value="Adds all of the elements of the specified collection to the end of this list. The elements are appended in the order they appear in the [elements] collection. @return `true` if the list was changed as the result of the operation." />
-      <item value="is Already Added" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="294" />
-        <entry key="ENGLISH" value="295" />
+        <entry key="CHINESE" value="298" />
+        <entry key="ENGLISH" value="299" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -84,7 +84,6 @@
         <option name="primaryLanguage" value="CHINESE" />
       </google-translate>
     </option>
-    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="primaryLanguage" value="AUTO" />
