@@ -3,10 +3,10 @@
     <option name="androidVersion" value="10" />
     <option name="deviceForm" value="PHYSICAL" />
     <option name="deviceType" value="PHONE" />
-    <option name="emui" value="11.0.0" />
-    <option name="model" value="lio-an00m" />
-    <option name="phoneName" value="mate 30e pro" />
-    <option name="xres" value="1176" />
+    <option name="emui" value="" />
+    <option name="model" value="tel-an00" />
+    <option name="phoneName" value="荣耀x10" />
+    <option name="xres" value="1080" />
     <option name="yres" value="2400" />
   </component>
 </application>
