@@ -16,6 +16,10 @@
     <keyboard-shortcut first-keystroke="alt 7" />
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
