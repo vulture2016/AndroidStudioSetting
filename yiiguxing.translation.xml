@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="arks a method in a Dao annotated class as a query method. The value of the annotation includes the query that will be run when this method is called. This query is verified at compile time by Room to ensure that it compiles fine against the database" />
+      <item value="soso" />
       <item value="if any of the actual type arguments refers to a non-existent type declaration" />
       <item value="unresolved supertypes" />
       <item value="Adding -Xextended-compiler-checks argument might provide additional information." />
@@ -54,24 +56,22 @@
       <item value="Classifier 'CreationCardBean' does not have a companion object, and thus must be initialized here" />
       <item value="Implementation of {@link PagerAdapter} that uses a {@link Fragment} to manage each page. This class also handles saving and restoring of fragment's state. &lt;p&gt;This version of the pager is more useful when there are a large number of pages, working more like a list view. When pages are not visible to the user, their entire fragment may be destroyed, only keeping the saved state of that fragment. This allows the pager to hold on to much less memory associated with each visited page as compared to {@link FragmentPagerAdapter} at the cost of potentially more overhead when switching between pages. &lt;p&gt;When using FragmentPagerAdapter the host ViewPager must have a valid ID set.&lt;p&gt; &lt;p&gt;Subclasses only need to implement {@link getItem(int)} and {@link getCount()} to have a working adapter. &lt;p&gt;Here is an example implementation of a pager containing fragments of lists: {@sample frameworkssupportsamplesSupport4Demossrcmainjavacomexampleandroidsupportv4appFragmentStatePagerSupport.java complete} &lt;p&gt;The &lt;code&gt;R.layout.fragment_pager&lt;code&gt; resource of the top-level fragment is: {@sample frameworkssupportsamplesSupport4Demossrcmainreslayoutfragment_pager.xml complete} &lt;p&gt;The &lt;code&gt;R.layout.fragment_pager_list&lt;code&gt; resource containing each individual fragment's layout is: {@sample frameworkssupportsamplesSupport4Demossrcmainreslayoutfragment_pager_list.xml complete} @deprecated Switch to {@link androidx.viewpager2.widget.ViewPager2} and use {@link androidx.viewpager2.adapter.FragmentStateAdapter} instead." />
       <item value="Hint to the compressor, 0-100. 0 meaning compress for small size, 100 meaning compress for max quality. Some formats, like PNG which is lossless, will ignore the quality setting" />
-      <item value="Choose Cover Delegate" />
-      <item value="source exhausted prematurely" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
+        <entry key="CHINESE" value="301" />
         <entry key="ENGLISH" value="300" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="JAPANESE" value="1" />
+        <entry key="JAPANESE" value="2" />
         <entry key="SOMALI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636358825613" />
+    <option name="lastTrimTime" value="1637134091851" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -84,7 +84,6 @@
         <option name="primaryLanguage" value="CHINESE" />
       </google-translate>
     </option>
-    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="primaryLanguage" value="AUTO" />
