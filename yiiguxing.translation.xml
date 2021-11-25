@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Schedules the specified task for execution after the specified delay. Params: task – task to be scheduled. delay – delay in milliseconds before task is to be executed. Throws: IllegalArgumentException – if delay is negative, or delay + System.currentTimeMillis() is negative. IllegalStateException – if task was already scheduled or cancelled, timer was cancelled, or timer thread terminated. NullPointerException – if task is null" />
       <item value="vsync" />
       <item value="const" />
       <item value="fetch" />
@@ -55,12 +56,11 @@
       <item value="Removes characters in the specified range from this string builder and returns this instance. @param startIndex the beginning (inclusive) of the range to remove. @param endIndex the end (exclusive) of the range to remove. @throws IndexOutOfBoundsException or [IllegalArgumentException] when [startIndex] is out of range of this string builder indices or when `startIndex &gt; endIndex`." />
       <item value="get Start Time" />
       <item value="book Adapter" />
-      <item value="Failed to find configured root that contains datadatacom.fish.ancient.poemscacheshare1631676003805.png" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="302" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637134091851" />
+    <option name="lastTrimTime" value="1637828514786" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
