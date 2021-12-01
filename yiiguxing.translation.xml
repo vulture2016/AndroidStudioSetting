@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Gets the next random [bitCount] number of bits. Generates an `Int` whose lower [bitCount] bits are filled with random values and the remaining upper bits are zero. @param bitCount number of bits to generate, must be in range 0..32, otherwise the behavior is unspecified. @sample samples.random.Randoms.nextBits" />
       <item value="thirdly" />
       <item value="Round" />
       <item value="This version (1.0.1) of the Compose Compiler requires Kotlin version 1.5.21 but you appear to be using Kotlin version 1.5.31 which is not known to be compatible. Please fix your configuration (or `suppressKotlinVersionCompatibilityCheck` but don't say I didn't warn you!)" />
@@ -55,12 +56,11 @@
       <item value="&quot;please invoke [payservice] initwxsecret method first&quot;" />
       <item value="please invoke init [PayService] initWxSecret method first" />
       <item value="Calls the specified function [block] with `this` value as its argument and returns `this` value. For detailed usage information see the documentation for [scope functions](https:kotlinlang.orgdocsreferencescope-functions.htmlalso)." />
-      <item value="component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="308" />
-        <entry key="ENGLISH" value="309" />
+        <entry key="CHINESE" value="309" />
+        <entry key="ENGLISH" value="310" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
