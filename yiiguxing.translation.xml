@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Recycled view pools allow multiple RecyclerViews to share a common pool of scrap views. This can be useful if you have multiple RecyclerViews with adapters that use the same view types, for example if you have several data sets with the same kinds of item views displayed by a {@link androidx.viewpager.widget.ViewPager}. @param pool Pool to set. If this parameter is null a new pool will be created and used." />
       <item value="Gets the next random [bitCount] number of bits. Generates an `Int` whose lower [bitCount] bits are filled with random values and the remaining upper bits are zero. @param bitCount number of bits to generate, must be in range 0..32, otherwise the behavior is unspecified. @sample samples.random.Randoms.nextBits" />
       <item value="thirdly" />
       <item value="Round" />
@@ -55,12 +56,11 @@
       <item value="purple" />
       <item value="&quot;please invoke [payservice] initwxsecret method first&quot;" />
       <item value="please invoke init [PayService] initWxSecret method first" />
-      <item value="Calls the specified function [block] with `this` value as its argument and returns `this` value. For detailed usage information see the documentation for [scope functions](https:kotlinlang.orgdocsreferencescope-functions.htmlalso)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="309" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="311" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
