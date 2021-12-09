@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="refresh logistics" />
+      <item value="logistic" />
       <item value="Warning! Trust all certificate is unsafe!" />
       <item value="Check build files to ensure at least one variant exists" />
       <item value="No such property" />
@@ -54,13 +56,11 @@
       <item value="INVALID OFFSET" />
       <item value="While trying to find next view to focus, LayoutManager will not try to scroll more than this factor times the total space of the list. If layout is vertical, total space is the height minus padding, if layout is horizontal, total space is the width minus padding." />
       <item value="delta" />
-      <item value="Justifies wheel" />
-      <item value="true if corresponding item exists and is added" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="316" />
+        <entry key="CHINESE" value="317" />
+        <entry key="ENGLISH" value="318" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638338895323" />
+    <option name="lastTrimTime" value="1639035705551" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
