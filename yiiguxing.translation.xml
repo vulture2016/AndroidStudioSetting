@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="public actual fun" />
+      <item value="Initializer function can be called several times on concurrent access to uninitialized [Lazy] instance value, but only the first returned value will be used as the value of [Lazy] instance." />
+      <item value="Creates a new instance of the [Lazy] that uses the specified initialization function [initializer] and the default thread-safety mode [LazyThreadSafetyMode.SYNCHRONIZED]. If the initialization of a value throws an exception, it will attempt to reinitialize the value at next access. Note that the returned instance uses itself to synchronize on. Do not synchronize from external code on the returned instance as it may cause accidental deadlock. Also this behavior can be changed in the future." />
       <item value="If a ViewHolder must be constructed and not enough time remains, null is returned. If a ViewHolder is aquired and must be bound but not enough time remains, an unbound holder is returned. Use {@link ViewHolderisBound()} on the returned object to check for this." />
       <item value="If a deadlineNs other than {@link FOREVER_NS} is passed, this method early return rather than constructing or binding a ViewHolder if it doesn't think it has time." />
       <item value="rather" />
@@ -53,14 +56,11 @@
       <item value="coerce At Least" />
       <item value="Cancel" />
       <item value="prepay Id" />
-      <item value="track" />
-      <item value="feat" />
-      <item value="generate Fake Lottery Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
