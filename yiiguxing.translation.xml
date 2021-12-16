@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="initial Capacity" />
+      <item value="initial" />
       <item value="Original" />
       <item value="Returns a KClass instance corresponding to the given Java Class instance." />
       <item value="public actual fun" />
@@ -54,13 +56,11 @@
       <item value="dash Gap" />
       <item value="dash Width" />
       <item value="ERR AUTH DENIED" />
-      <item value="IncludedLayouts has protected access in ViewDataBinding" />
-      <item value="coerce At Least" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="331" />
+        <entry key="ENGLISH" value="332" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -84,7 +84,6 @@
         <option name="primaryLanguage" value="CHINESE" />
       </google-translate>
     </option>
-    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="primaryLanguage" value="AUTO" />
