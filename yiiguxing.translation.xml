@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="scroll" />
       <item value="memo" />
       <item value="Payment" />
       <item value="status" />
@@ -55,12 +56,11 @@
       <item value="limit time offer" />
       <item value="Optimizations" />
       <item value="至尊款" />
-      <item value="addressee" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
