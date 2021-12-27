@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="@return {@code true} to prevent {@link TargetonLoadFailed(Drawable)} from being called on {@code target}, typically because the listener wants to update the {@code target} or the object the {@code target} wraps itself or {@code false} to allow {@link TargetonLoadFailed(Drawable)} to be called on {@code target}." />
+      <item value="@param e The maybe {@code null} exception containing information about why the request failed. @param model The model we were trying to load when the exception occurred. @param target The {@link Target} we were trying to load the image into. @param isFirstResource {@code true} if this exception is for the first resource to load. @return {@code true} to prevent {@link TargetonLoadFailed(Drawable)} from being called on {@code target}, typically because the listener wants to update the {@code target} or the object the {@code target} wraps itself or {@code false} to allow {@link TargetonLoadFailed(Drawable)} to be called on {@code target}." />
       <item value="scroll" />
       <item value="memo" />
       <item value="Payment" />
@@ -54,13 +56,11 @@
       <item value="tools:replace specified at line:90 for attribute android:resource, but no new value specified" />
       <item value="intrinsic Height" />
       <item value="limit time offer" />
-      <item value="Optimizations" />
-      <item value="至尊款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
