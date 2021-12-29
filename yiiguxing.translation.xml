@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="包括" />
+      <item value="Expanded" />
       <item value="If set to true, all future compositions that are set will be cached so that they don't need to be parsed next time they are loaded. This won't apply to compositions that have already been loaded. Defaults to true. {@link R.attrlottie_cacheComposition}" />
       <item value="Be wary if you are using many images, however. Lottie is designed to work with vector shapes from After Effects. If your images look like they could be represented with vector shapes, see if it is possible to convert them to shape layers and re-export your animation. Check the documentation at http:airbnb.iolottie for more information about importing shapes from Sketch or Illustrator to avoid this." />
       <item value="Use this if you can't bundle images with your app. This may be useful if you download the animations from the network or have the images saved to an SD Card. In that case, Lottie will defer the loading of the bitmap to this delegate." />
@@ -54,13 +56,11 @@
       <item value="if any of the actual type arguments refers to a non-existent type declaration" />
       <item value="unresolved supertypes" />
       <item value="Adding -Xextended-compiler-checks argument might provide additional information." />
-      <item value="Supertypes of the following classes cannot be resolved." />
-      <item value="Please make sure you have the required dependencies in the classpath:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="CHINESE" value="346" />
+        <entry key="ENGLISH" value="346" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
