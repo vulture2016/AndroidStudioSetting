@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="DISCOUNT Lu CKY" />
       <item value="有效时间" />
       <item value="任务" />
       <item value="Mutable" />
@@ -55,7 +56,6 @@
       <item value="const" />
       <item value="fetch" />
       <item value="arks a method in a Dao annotated class as a query method. The value of the annotation includes the query that will be run when this method is called. This query is verified at compile time by Room to ensure that it compiles fine against the database" />
-      <item value="soso" />
     </histories>
     <option name="languageScores">
       <map>
