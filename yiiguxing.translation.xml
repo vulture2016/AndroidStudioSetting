@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="有效时间" />
       <item value="任务" />
       <item value="Mutable" />
       <item value="包括" />
@@ -55,12 +56,11 @@
       <item value="fetch" />
       <item value="arks a method in a Dao annotated class as a query method. The value of the annotation includes the query that will be run when this method is called. This query is verified at compile time by Room to ensure that it compiles fine against the database" />
       <item value="soso" />
-      <item value="if any of the actual type arguments refers to a non-existent type declaration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="347" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="348" />
+        <entry key="ENGLISH" value="348" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
