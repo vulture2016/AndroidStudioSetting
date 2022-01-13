@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="相关盲盒" />
       <item value="AES" />
       <item value="This must be in a local variable, in case a UI event sets the logger" />
       <item value="quit Allowed" />
@@ -55,11 +56,10 @@
       <item value="No such property" />
       <item value="Missing Property Exception" />
       <item value="Favorited" />
-      <item value="Tutorial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
+        <entry key="CHINESE" value="361" />
         <entry key="ENGLISH" value="361" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
