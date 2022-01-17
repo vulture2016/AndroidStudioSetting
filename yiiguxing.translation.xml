@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="find Binary" />
       <item value="Reduce" />
       <item value="available" />
       <item value="enable" />
@@ -55,12 +56,11 @@
       <item value="Attempts to get the ViewHolder for the given position, either from the Recycler scrap, cache, the RecycledViewPool, or creating it directly. &lt;p&gt; If a deadlineNs other than {@link FOREVER_NS} is passed, this method early return rather than constructing or binding a ViewHolder if it doesn't think it has time. If a ViewHolder must be constructed and not enough time remains, null is returned. If a ViewHolder is aquired and must be bound but not enough time remains, an unbound holder is returned. Use {@link ViewHolderisBound()} on the returned object to check for this. @param position Position of ViewHolder to be returned. @param dryRun True if the ViewHolder should not be removed from scrapcache @param deadlineNs Time, relative to getNanoTime(), by which bindcreate work should complete. If FOREVER_NS is passed, this method will not fail to createbind the holder if needed. @return ViewHolder for requested position" />
       <item value="refresh logistics" />
       <item value="logistic" />
-      <item value="Warning! Trust all certificate is unsafe!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="363" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="CHINESE" value="364" />
+        <entry key="ENGLISH" value="365" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641972002708" />
+    <option name="lastTrimTime" value="1642409832368" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
