@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Encoder flag bit to omit all line terminators (i.e., the output will be on one long line)" />
       <item value="Sensor Manager.get Orientation()" />
       <item value="A constant describing an orientation sensor type." />
       <item value="A constant describing a magnetic field sensor type." />
@@ -55,12 +56,11 @@
       <item value="Creates a new instance of the [Lazy] that uses the specified initialization function [initializer] and the default thread-safety mode [LazyThreadSafetyMode.SYNCHRONIZED]. If the initialization of a value throws an exception, it will attempt to reinitialize the value at next access. Note that the returned instance uses itself to synchronize on. Do not synchronize from external code on the returned instance as it may cause accidental deadlock. Also this behavior can be changed in the future." />
       <item value="If a ViewHolder must be constructed and not enough time remains, null is returned. If a ViewHolder is aquired and must be bound but not enough time remains, an unbound holder is returned. Use {@link ViewHolderisBound()} on the returned object to check for this." />
       <item value="If a deadlineNs other than {@link FOREVER_NS} is passed, this method early return rather than constructing or binding a ViewHolder if it doesn't think it has time." />
-      <item value="rather" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="CHINESE" value="370" />
+        <entry key="ENGLISH" value="371" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
