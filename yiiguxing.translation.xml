@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Compilation Failed Exception" />
+      <item value="unrecognized Attribute name MODULE" />
+      <item value="java.lang.reflect.Invocation Target Exception" />
       <item value="A failure occurred while executing com.android.build.gradle.internal.tasks.CheckAarMetadataWorkAction" />
       <item value="Caused by: java.lang.RuntimeException: The minCompileSdk (31) specified in a" />
       <item value="cross" />
@@ -53,14 +56,11 @@
       <item value="Payment" />
       <item value="status" />
       <item value="Locks are used to ensure that only a single thread can initialize the [Lazy] instance." />
-      <item value="Initializer function can be called several times on concurrent access to uninitialized [Lazy] instance value, but only the first returned value will be used as the value of [Lazy] instance." />
-      <item value="initial Capacity" />
-      <item value="initial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="377" />
-        <entry key="ENGLISH" value="378" />
+        <entry key="CHINESE" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
