@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Intellij 2021.1.1 Platform Update New Device Manager ADB over Wi-Fi Run Instrumented Tests in Android Studio using Gradle Android Gradle Plugin Upgrade Assistant now updates API usage Non-Transitive R classes on for new projects Apple Silicon Support Update Jank detection track in Profilers Profileable app profiling support in Studio Profilers Network Inspection and ability to capture Layout Inspector snapshots Support for Compose semantics in the Layout Inspector Interactive Preview Animated Vector Drawables Preview Updated Device picker for Design Tools" />
       <item value="snapshot" />
       <item value="Compilation Failed Exception" />
       <item value="unrecognized Attribute name MODULE" />
@@ -55,11 +56,10 @@
       <item value="scroll" />
       <item value="memo" />
       <item value="Payment" />
-      <item value="status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
+        <entry key="CHINESE" value="382" />
         <entry key="ENGLISH" value="382" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
@@ -84,7 +84,6 @@
         <option name="primaryLanguage" value="CHINESE" />
       </google-translate>
     </option>
-    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="primaryLanguage" value="AUTO" />
