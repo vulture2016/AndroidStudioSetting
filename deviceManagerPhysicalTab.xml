@@ -20,8 +20,20 @@
             <value value="68778838" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-01-27T11:06:29.189959900Z" />
+        <lastOnlineTime value="2022-01-27T11:14:11.301211800Z" />
         <name value="Xiaomi MI 8" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="GDB6R19A22005160" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-01-27T11:14:17.330372800Z" />
+        <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
