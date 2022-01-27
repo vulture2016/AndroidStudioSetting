@@ -5,49 +5,13 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.11.32:5555" />
+            <value value="192.168.11.30:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-01-26T09:06:57.514022100Z" />
+        <lastOnlineTime value="2022-01-27T09:41:50.328750300Z" />
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="68778838" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-01-26T14:37:27.115154600Z" />
-        <name value="Xiaomi MI 8" />
-        <target value="Android 10.0" />
-        <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="GDB6R19A22005160" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-01-26T07:15:00.970824100Z" />
-        <name value="HUAWEI HLK-AL00" />
-        <target value="Android 10.0" />
-        <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="AEI7SCBUS89PZ94T" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-01-26T09:57:26.328369200Z" />
-        <name value="vivo V1818CA" />
-        <target value="Android 8.1" />
-        <api value="27" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
