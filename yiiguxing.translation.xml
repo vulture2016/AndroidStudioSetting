@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="Expecting an element" />
+      <item value="Not enough information to infer type variable T" />
+      <item value="Function invocation 'apply()' expected" />
+      <item value="expected" />
+      <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
       <item value="Android Studio Bumblebee | 2021.1.1 Patch 1 is a major new release and includes performance improvements, bug fixes and new features. Intellij 2021.1.1 Platform Update New Device Manager ADB over Wi-Fi Run Instrumented Tests in Android Studio using Gradle Android Gradle Plugin Upgrade Assistant now updates API usage Non-Transitive R classes on for new projects Apple Silicon Support Update Jank detection track in Profilers Profileable app profiling support in Studio Profilers Network Inspection and ability to capture Layout Inspector snapshots Support for Compose semantics in the Layout Inspector Interactive Preview Animated Vector Drawables Preview Updated Device picker for Design Tools Important After updating, you need to restart Android Studio to apply any memory settings you migrate from an earlier version of the IDE." />
       <item value="There are multiple good constructors and Room will pick the no-arg constructor" />
       <item value="Intellij 2021.1.1 Platform Update New Device Manager ADB over Wi-Fi Run Instrumented Tests in Android Studio using Gradle Android Gradle Plugin Upgrade Assistant now updates API usage Non-Transitive R classes on for new projects Apple Silicon Support Update Jank detection track in Profilers Profileable app profiling support in Studio Profilers Network Inspection and ability to capture Layout Inspector snapshots Support for Compose semantics in the Layout Inspector Interactive Preview Animated Vector Drawables Preview Updated Device picker for Design Tools" />
@@ -51,16 +56,11 @@
       <item value="Expanded" />
       <item value="If set to true, all future compositions that are set will be cached so that they don't need to be parsed next time they are loaded. This won't apply to compositions that have already been loaded. Defaults to true. {@link R.attrlottie_cacheComposition}" />
       <item value="Be wary if you are using many images, however. Lottie is designed to work with vector shapes from After Effects. If your images look like they could be represented with vector shapes, see if it is possible to convert them to shape layers and re-export your animation. Check the documentation at http:airbnb.iolottie for more information about importing shapes from Sketch or Illustrator to avoid this." />
-      <item value="Use this if you can't bundle images with your app. This may be useful if you download the animations from the network or have the images saved to an SD Card. In that case, Lottie will defer the loading of the bitmap to this delegate." />
-      <item value="Use this if you can't bundle images with your app. This may be useful if you download the animations from the network or have the images saved to an SD Card. In that case, Lottie will defer the loading of the bitmap to this delegate. Be wary if you are using many images, however. Lottie is designed to work with vector shapes from After Effects. If your images look like they could be represented with vector shapes, see if it is possible to convert them to shape layers and re-export your animation. Check the documentation at http:airbnb.iolottie for more information about importing shapes from Sketch or Illustrator to avoid this." />
-      <item value="@return {@code true} to prevent {@link TargetonLoadFailed(Drawable)} from being called on {@code target}, typically because the listener wants to update the {@code target} or the object the {@code target} wraps itself or {@code false} to allow {@link TargetonLoadFailed(Drawable)} to be called on {@code target}." />
-      <item value="@param e The maybe {@code null} exception containing information about why the request failed. @param model The model we were trying to load when the exception occurred. @param target The {@link Target} we were trying to load the image into. @param isFirstResource {@code true} if this exception is for the first resource to load. @return {@code true} to prevent {@link TargetonLoadFailed(Drawable)} from being called on {@code target}, typically because the listener wants to update the {@code target} or the object the {@code target} wraps itself or {@code false} to allow {@link TargetonLoadFailed(Drawable)} to be called on {@code target}." />
-      <item value="scroll" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="CHINESE" value="388" />
+        <entry key="ENGLISH" value="389" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
