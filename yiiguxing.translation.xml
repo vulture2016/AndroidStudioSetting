@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="453" />
-    <option name="newTranslationDialogWidth" value="787" />
+    <option name="newTranslationDialogWidth" value="785" />
     <option name="newTranslationDialogX" value="704" />
-    <option name="newTranslationDialogY" value="417" />
+    <option name="newTranslationDialogY" value="282" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ratio" />
+      <item value="proportion" />
+      <item value="比例" />
       <item value="wallet" />
       <item value="Expecting an element" />
       <item value="Not enough information to infer type variable T" />
@@ -53,14 +57,11 @@
       <item value="有效时间" />
       <item value="任务" />
       <item value="Mutable" />
-      <item value="包括" />
-      <item value="Expanded" />
-      <item value="If set to true, all future compositions that are set will be cached so that they don't need to be parsed next time they are loaded. This won't apply to compositions that have already been loaded. Defaults to true. {@link R.attrlottie_cacheComposition}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="389" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="392" />
+        <entry key="ENGLISH" value="391" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
