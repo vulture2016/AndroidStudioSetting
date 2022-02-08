@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="417" />
     <histories>
+      <item value="wallet" />
       <item value="Expecting an element" />
       <item value="Not enough information to infer type variable T" />
       <item value="Function invocation 'apply()' expected" />
@@ -55,11 +56,10 @@
       <item value="包括" />
       <item value="Expanded" />
       <item value="If set to true, all future compositions that are set will be cached so that they don't need to be parsed next time they are loaded. This won't apply to compositions that have already been loaded. Defaults to true. {@link R.attrlottie_cacheComposition}" />
-      <item value="Be wary if you are using many images, however. Lottie is designed to work with vector shapes from After Effects. If your images look like they could be represented with vector shapes, see if it is possible to convert them to shape layers and re-export your animation. Check the documentation at http:airbnb.iolottie for more information about importing shapes from Sketch or Illustrator to avoid this." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
+        <entry key="CHINESE" value="389" />
         <entry key="ENGLISH" value="389" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
