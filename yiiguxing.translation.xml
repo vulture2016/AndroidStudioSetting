@@ -7,8 +7,8 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Entity" />
       <item value="ratio" />
+      <item value="Entity" />
       <item value="proportion" />
       <item value="比例" />
       <item value="wallet" />
@@ -61,7 +61,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="392" />
+        <entry key="ENGLISH" value="393" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
