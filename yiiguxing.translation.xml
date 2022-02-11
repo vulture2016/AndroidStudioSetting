@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="我的收益" />
       <item value="合集" />
       <item value="member privilege" />
       <item value="extra" />
@@ -56,12 +57,11 @@
       <item value="Returns true if the device is in an interactive state" />
       <item value="Interactive" />
       <item value="解绑订单" />
-      <item value="解绑" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="397" />
-        <entry key="ENGLISH" value="397" />
+        <entry key="CHINESE" value="399" />
+        <entry key="ENGLISH" value="399" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
