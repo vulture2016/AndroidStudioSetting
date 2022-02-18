@@ -39,6 +39,7 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl f9" />
@@ -52,10 +53,6 @@
   </action>
   <action id="EditorLookupUp" />
   <action id="EditorScrollUp" />
-  <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="shift alt up" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="shift ctrl x" />
@@ -160,6 +157,9 @@
     <keyboard-shortcut first-keystroke="shift alt s" />
     <keyboard-shortcut first-keystroke="ctrl f10" />
     <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="SmartSelect">
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="ViewMainMenu">
