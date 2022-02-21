@@ -24,6 +24,9 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="AndroidLogConsole.DeviceScreenshotAction">
+    <keyboard-shortcut first-keystroke="ctrl numpad9" />
+  </action>
   <action id="AndroidLogConsole.ScreenshotAction">
     <keyboard-shortcut first-keystroke="alt numpad8" />
   </action>
