@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Max Scheduled Generation" />
       <item value="Chapter List" />
       <item value="Provide a new Fragment associated with the specified position. The adapter will be responsible for the Fragment lifecycle: The Fragment will be used to display an item. The Fragment will be destroyed when it gets too far from the viewport, and its state will be saved. When the item is close to the viewport again, a new Fragment will be requested, and a previously saved state will be used to initialize it. See Also: ViewPager2.setOffscreenPageLimit" />
       <item value="Provide a new Fragment associated with the specified position. The adapter will be responsible for the Fragment lifecycle: The Fragment will be used to display an item. The Fragment will be destroyed when it gets too far from the viewport, and its state will be saved. When the item is close to the viewport again, a new Fragment will be requested, and a previously saved state will be used to initialize it." />
@@ -56,12 +57,11 @@
       <item value="Reduce" />
       <item value="available" />
       <item value="enable" />
-      <item value="减" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="CHINESE" value="408" />
+        <entry key="ENGLISH" value="409" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645414580822" />
+    <option name="lastTrimTime" value="1646035362846" />
   </component>
 </application>
