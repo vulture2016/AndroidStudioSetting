@@ -2,11 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="453" />
-    <option name="newTranslationDialogWidth" value="785" />
+    <option name="newTranslationDialogWidth" value="783" />
     <option name="newTranslationDialogX" value="704" />
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="public open operator fun equals( other: Any? ): Boolean Indicates whether some other object is &quot;equal to&quot; this one. Implementations must fulfil the following requirements: Reflexive: for any non-null value x, x.equals(x) should return true. Symmetric: for any non-null values x and y, x.equals(y) should return true if and only if y.equals(x) returns true. Transitive: for any non-null values x, y, and z, if x.equals(y) returns true and y.equals(z) returns true, then x.equals(z) should return true. Consistent: for any non-null values x and y, multiple invocations of x.equals(y) consistently return true or consistently return false, provided no information used in equals comparisons on the objects is modified. Never equal to null: for any non-null value x, x.equals(null) should return false." />
       <item value="Max Scheduled Generation" />
       <item value="Chapter List" />
       <item value="Provide a new Fragment associated with the specified position. The adapter will be responsible for the Fragment lifecycle: The Fragment will be used to display an item. The Fragment will be destroyed when it gets too far from the viewport, and its state will be saved. When the item is close to the viewport again, a new Fragment will be requested, and a previously saved state will be used to initialize it. See Also: ViewPager2.setOffscreenPageLimit" />
@@ -56,11 +57,10 @@
       <item value="find Binary" />
       <item value="Reduce" />
       <item value="available" />
-      <item value="enable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="408" />
+        <entry key="CHINESE" value="409" />
         <entry key="ENGLISH" value="409" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
