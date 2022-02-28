@@ -41,7 +41,7 @@
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="ctrl f9" />
@@ -57,7 +57,7 @@
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift alt up" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
@@ -127,7 +127,7 @@
   </action>
   <action id="Images.Thumbnails.Hide">
     <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="IncrementalSearch" />
   <action id="InsertLiveTemplate">
@@ -170,6 +170,7 @@
   </action>
   <action id="SmartSelect">
     <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="ViewMainMenu">
