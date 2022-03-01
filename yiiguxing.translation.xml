@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="banned" />
       <item value="Launches and runs the given block when the [Lifecycle] controlling this [LifecycleCoroutineScope] is at least in [Lifecycle.State.RESUMED] state. The returned [Job] will be cancelled when the [Lifecycle] is destroyed. Caution: This API is not recommended to use as it can lead to wasted resources in some cases. Please, use the [Lifecycle.repeatOnLifecycle] API instead. This API will be removed in a future release. @see Lifecycle.whenResumed @see Lifecycle.coroutineScope" />
       <item value="public open operator fun equals( other: Any? ): Boolean Indicates whether some other object is &quot;equal to&quot; this one. Implementations must fulfil the following requirements: Reflexive: for any non-null value x, x.equals(x) should return true. Symmetric: for any non-null values x and y, x.equals(y) should return true if and only if y.equals(x) returns true. Transitive: for any non-null values x, y, and z, if x.equals(y) returns true and y.equals(z) returns true, then x.equals(z) should return true. Consistent: for any non-null values x and y, multiple invocations of x.equals(y) consistently return true or consistently return false, provided no information used in equals comparisons on the objects is modified. Never equal to null: for any non-null value x, x.equals(null) should return false." />
       <item value="Max Scheduled Generation" />
@@ -56,12 +57,11 @@
       <item value="flag to indicate whether the Sensor is a wake-up or non wake-up sensor" />
       <item value="SETTING" />
       <item value="find Binary" />
-      <item value="Reduce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
