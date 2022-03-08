@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="indices" />
       <item value="Builds a LiveData that has values yielded from the given block that executes on a LiveDataScope. The block starts executing when the returned LiveData becomes active (LiveData.onActive). If the LiveData becomes inactive (LiveData.onInactive) while the block is executing, it will be cancelled after timeoutInMs milliseconds unless the LiveData becomes active again before that timeout (to gracefully handle cases like Activity rotation). Any value LiveDataScope.emited from a cancelled block will be ignored. After a cancellation, if the LiveData becomes active again, the block will be re-executed from the beginning. If you would like to continue the operations based on where it was stopped last, you can use the LiveDataScope.latestValue function to get the last LiveDataScope.emited value. If the block completes successfully or is cancelled due to reasons other than LiveData becoming inactive, it will not be re-executed even after LiveData goes through active inactive cycle. As a best practice, it is important for the block to cooperate in cancellation. See kotlin coroutines documentation for details https:kotlinlang.orgdocsreferencecoroutinescancellation-and-timeouts.html. a simple LiveData that receives value 3, 3 seconds after being observed for the first time. val data : LiveData&lt;Int&gt; = liveData { delay(3000) emit(3) }" />
       <item value="large Heap" />
       <item value="hardware Accelerated" />
@@ -56,12 +57,11 @@
       <item value="Encoder flag bit to omit all line terminators (i.e., the output will be on one long line)" />
       <item value="Sensor Manager.get Orientation()" />
       <item value="A constant describing an orientation sensor type." />
-      <item value="A constant describing a magnetic field sensor type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="413" />
-        <entry key="ENGLISH" value="414" />
+        <entry key="CHINESE" value="414" />
+        <entry key="ENGLISH" value="415" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
