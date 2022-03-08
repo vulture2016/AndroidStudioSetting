@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="chapter" />
       <item value="Comment" />
       <item value="Dubbing Binder" />
       <item value="indices" />
@@ -56,11 +57,10 @@
       <item value="Pass an ordered list of desired aspect ratios that should be available for a user. Params: selectedByDefault – - index of aspect ratio option that is selected by default (starts with 0). aspectRatio – - list of aspect ratio options that are available to user" />
       <item value="Privilege" />
       <item value="Set the paint's horizontal scale factor for text. The default value is 1.0. Values &gt; 1.0 will stretch the text wider. Values &lt; 1.0 will stretch the text narrower. Params: scaleX – set the paint's scale in X for drawingmeasuring text." />
-      <item value="Encoder flag bit to omit all line terminators (i.e., the output will be on one long line)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
+        <entry key="CHINESE" value="417" />
         <entry key="ENGLISH" value="417" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
