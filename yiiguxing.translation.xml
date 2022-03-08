@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Embedded" />
       <item value="Returns flow where all subsequent repetitions of the same value are filtered out. Note that any instance of StateFlow already behaves as if distinctUtilChanged operator is applied to it, so applying distinctUntilChanged to a StateFlow has no effect. See StateFlow documentation on Operator Fusion. Also, repeated application of distinctUntilChanged operator on any flow has no effect." />
       <item value="chapter" />
       <item value="Comment" />
@@ -56,12 +57,11 @@
       <item value="Caused by: java.lang.RuntimeException: The minCompileSdk (31) specified in a" />
       <item value="cross" />
       <item value="Pass an ordered list of desired aspect ratios that should be available for a user. Params: selectedByDefault – - index of aspect ratio option that is selected by default (starts with 0). aspectRatio – - list of aspect ratio options that are available to user" />
-      <item value="Privilege" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="417" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="CHINESE" value="418" />
+        <entry key="ENGLISH" value="419" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
