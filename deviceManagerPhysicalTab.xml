@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.11.66:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-09T11:17:37.435160800Z" />
+        <name value="Xiaomi MI 8" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.11.63:5555" />
           </Key>
         </key>
@@ -21,18 +33,6 @@
           </Key>
         </key>
         <lastOnlineTime value="2022-02-18T06:03:00.904328800Z" />
-        <name value="Xiaomi MI 8" />
-        <target value="Android 10.0" />
-        <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.11.66:5555" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-02-24T08:58:33.437670100Z" />
         <name value="Xiaomi MI 8" />
         <target value="Android 10.0" />
         <api value="29" />
