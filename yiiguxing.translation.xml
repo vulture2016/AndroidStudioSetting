@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
       <item value="Cannot figure out how to save this field into database." />
       <item value="Embedded" />
       <item value="Returns flow where all subsequent repetitions of the same value are filtered out. Note that any instance of StateFlow already behaves as if distinctUtilChanged operator is applied to it, so applying distinctUntilChanged to a StateFlow has no effect. See StateFlow documentation on Operator Fusion. Also, repeated application of distinctUntilChanged operator on any flow has no effect." />
@@ -56,12 +57,11 @@
       <item value="java.lang.reflect.Invocation Target Exception" />
       <item value="A failure occurred while executing com.android.build.gradle.internal.tasks.CheckAarMetadataWorkAction" />
       <item value="Caused by: java.lang.RuntimeException: The minCompileSdk (31) specified in a" />
-      <item value="cross" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="420" />
+        <entry key="CHINESE" value="420" />
+        <entry key="ENGLISH" value="421" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
