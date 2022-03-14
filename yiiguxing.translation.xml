@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="zone stay" />
       <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
       <item value="Cannot figure out how to save this field into database." />
       <item value="Embedded" />
@@ -56,12 +57,11 @@
       <item value="unrecognized Attribute name MODULE" />
       <item value="java.lang.reflect.Invocation Target Exception" />
       <item value="A failure occurred while executing com.android.build.gradle.internal.tasks.CheckAarMetadataWorkAction" />
-      <item value="Caused by: java.lang.RuntimeException: The minCompileSdk (31) specified in a" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="CHINESE" value="422" />
+        <entry key="ENGLISH" value="423" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646639736462" />
+    <option name="lastTrimTime" value="1647243631440" />
   </component>
 </application>
