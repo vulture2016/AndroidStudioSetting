@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="direction – Negative to check scrolling left, positive to check scrolling right" />
       <item value="is incompatible with attribute" />
       <item value="original" />
       <item value="enter" />
@@ -56,12 +57,11 @@
       <item value="expected" />
       <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
       <item value="Android Studio Bumblebee | 2021.1.1 Patch 1 is a major new release and includes performance improvements, bug fixes and new features. Intellij 2021.1.1 Platform Update New Device Manager ADB over Wi-Fi Run Instrumented Tests in Android Studio using Gradle Android Gradle Plugin Upgrade Assistant now updates API usage Non-Transitive R classes on for new projects Apple Silicon Support Update Jank detection track in Profilers Profileable app profiling support in Studio Profilers Network Inspection and ability to capture Layout Inspector snapshots Support for Compose semantics in the Layout Inspector Interactive Preview Animated Vector Drawables Preview Updated Device picker for Design Tools Important After updating, you need to restart Android Studio to apply any memory settings you migrate from an earlier version of the IDE." />
-      <item value="There are multiple good constructors and Room will pick the no-arg constructor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="427" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="CHINESE" value="428" />
+        <entry key="ENGLISH" value="429" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647243631440" />
+    <option name="lastTrimTime" value="1647850325725" />
   </component>
 </application>
