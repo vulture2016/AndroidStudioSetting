@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Distance in pixels a touch can wander before we think the user is scrolling" />
       <item value="Dirty" />
       <item value="direction – Negative to check scrolling left, positive to check scrolling right" />
       <item value="is incompatible with attribute" />
@@ -56,12 +57,11 @@
       <item value="Not enough information to infer type variable T" />
       <item value="Function invocation 'apply()' expected" />
       <item value="expected" />
-      <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="430" />
+        <entry key="ENGLISH" value="431" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
