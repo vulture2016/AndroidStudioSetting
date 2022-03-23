@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Note that scroll position change will not be reflected until the next layout call." />
+      <item value="The distance (in pixels) between the start edge of the item view and start edge of the RecyclerView." />
       <item value="attach" />
       <item value="Distance in pixels a touch can wander before we think the user is scrolling" />
       <item value="Dirty" />
@@ -55,13 +57,11 @@
       <item value="比例" />
       <item value="wallet" />
       <item value="Expecting an element" />
-      <item value="Not enough information to infer type variable T" />
-      <item value="Function invocation 'apply()' expected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="431" />
-        <entry key="ENGLISH" value="432" />
+        <entry key="CHINESE" value="433" />
+        <entry key="ENGLISH" value="434" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
