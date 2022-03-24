@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="评论" />
+      <item value="common" />
       <item value="Note that scroll position change will not be reflected until the next layout call." />
       <item value="The distance (in pixels) between the start edge of the item view and start edge of the RecyclerView." />
       <item value="attach" />
@@ -55,13 +57,11 @@
       <item value="Entity" />
       <item value="proportion" />
       <item value="比例" />
-      <item value="wallet" />
-      <item value="Expecting an element" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="433" />
-        <entry key="ENGLISH" value="434" />
+        <entry key="CHINESE" value="435" />
+        <entry key="ENGLISH" value="435" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
