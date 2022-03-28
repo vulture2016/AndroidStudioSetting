@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Uniform horizontal and vertical text size scaling to fit within the container" />
       <item value="Returns the index of the group this position belongs. &lt;p&gt; For example, if grid has 3 columns and each item occupies 1 span, span group index for item 1 will be 0, item 5 will be 1. @param adapterPosition The position in adapter @param spanCount The total number of spans in the grid @return The index of the span group including the item at the given adapter position" />
       <item value="评论" />
       <item value="common" />
@@ -56,12 +57,11 @@
       <item value="Math Context" />
       <item value="ratio" />
       <item value="Entity" />
-      <item value="proportion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="435" />
-        <entry key="ENGLISH" value="436" />
+        <entry key="CHINESE" value="436" />
+        <entry key="ENGLISH" value="437" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647850325725" />
+    <option name="lastTrimTime" value="1648438522848" />
   </component>
 </application>
