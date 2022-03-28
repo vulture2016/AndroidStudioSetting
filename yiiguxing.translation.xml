@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Retrieves" />
+      <item value="Retrieves the binding responsible for the given View layout root. If there is no binding, &lt;code&gt;null&lt;code&gt; will be returned. This uses the DataBindingComponent set in {@link setDefaultComponent(DataBindingComponent)}. @param &lt;T&gt; Type of the generated binding class. @param view The root &lt;code&gt;View&lt;code&gt; in the layout with binding. @return The ViewDataBinding associated with the given view or &lt;code&gt;null&lt;code&gt; if either the view is not a root View for a layout or view hasn't been bound." />
       <item value="Cannot make calls to a recycled instance" />
       <item value="the desired dimension unit for all sizes above" />
       <item value="Uniform horizontal and vertical text size scaling to fit within the container" />
@@ -55,13 +57,11 @@
       <item value="合集" />
       <item value="member privilege" />
       <item value="extra" />
-      <item value="obtain" />
-      <item value="Math Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="438" />
-        <entry key="ENGLISH" value="438" />
+        <entry key="CHINESE" value="439" />
+        <entry key="ENGLISH" value="440" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
