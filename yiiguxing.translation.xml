@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The minCompileSdk (31) specified in a dependency's AAR metadata (META-INFcomandroidbuildgradleaar-metadata.properties) is greater than this module's compileSdkVersion (android-30). Dependency: androidx.core:core-ktx:1.7.0." />
+      <item value="is greater than this module's compileSdkVersion" />
       <item value="The attr &quot;QMUIGroupListSectionViewStyle&quot; in values has no declaration in the base values folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifier" />
       <item value="This attribute is ignored in API level 14 ({@link android.os.Build.VERSION_CODESICE_CREAM_SANDWICH}) and higher. Using fading edges may introduce noticeable performance degradations and should be used only when required by the application's visual design. To request fading edges with API level 14 and above, use the &lt;code&gt;android:requiresFadingEdge&lt;code&gt; attribute instead. --&gt;" />
       <item value="fading Edge" />
@@ -55,13 +57,11 @@
       <item value="Max Scheduled Generation" />
       <item value="Chapter List" />
       <item value="Provide a new Fragment associated with the specified position. The adapter will be responsible for the Fragment lifecycle: The Fragment will be used to display an item. The Fragment will be destroyed when it gets too far from the viewport, and its state will be saved. When the item is close to the viewport again, a new Fragment will be requested, and a previously saved state will be used to initialize it. See Also: ViewPager2.setOffscreenPageLimit" />
-      <item value="Provide a new Fragment associated with the specified position. The adapter will be responsible for the Fragment lifecycle: The Fragment will be used to display an item. The Fragment will be destroyed when it gets too far from the viewport, and its state will be saved. When the item is close to the viewport again, a new Fragment will be requested, and a previously saved state will be used to initialize it." />
-      <item value="回忆" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="449" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="ENGLISH" value="450" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
