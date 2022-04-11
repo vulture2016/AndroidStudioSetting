@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="No signature of method" />
       <item value="Duplicate resources" />
       <item value="Null extracted folder for artifact: ResolvedArtifact(componentIdentifier=IFLY_AD_5.0.9.aar, variant=local file, variantName=null, artifactFile=D:\Android Demo\Iflytek\app\libs\IFLY_AD_5.0.9.aar, extractedFolder=null, dependencyType=ANDROID, isWrappedModule=false, buildMapping={__current_build__=D:\Android Demo\Iflytek})" />
       <item value="Failed to delete some children. This might happen because a process has files open or has its working directory set in the target directory." />
@@ -56,12 +57,11 @@
       <item value="large Heap" />
       <item value="hardware Accelerated" />
       <item value="banned" />
-      <item value="Launches and runs the given block when the [Lifecycle] controlling this [LifecycleCoroutineScope] is at least in [Lifecycle.State.RESUMED] state. The returned [Job] will be cancelled when the [Lifecycle] is destroyed. Caution: This API is not recommended to use as it can lead to wasted resources in some cases. Please, use the [Lifecycle.repeatOnLifecycle] API instead. This API will be removed in a future release. @see Lifecycle.whenResumed @see Lifecycle.coroutineScope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="453" />
-        <entry key="ENGLISH" value="454" />
+        <entry key="CHINESE" value="454" />
+        <entry key="ENGLISH" value="455" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
