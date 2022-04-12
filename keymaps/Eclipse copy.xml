@@ -1,4 +1,5 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="$ShowTranslationDialogAction" />
   <action id="ActivateAndroidProfilerToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
