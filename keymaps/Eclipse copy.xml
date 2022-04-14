@@ -1,5 +1,8 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
   <action id="$ShowTranslationDialogAction" />
+  <action id="ActivateADBWi-FiToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl numpad7" />
+  </action>
   <action id="ActivateAndroidProfilerToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
