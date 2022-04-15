@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="aspect" />
       <item value="Constructor" />
       <item value="we will figure out what to do on upper level." />
       <item value="true to prevent Target.onLoadFailed(Drawable) from being called on target, typically because the listener wants to update the target or the object the target wraps itself or false to allow Target.onLoadFailed(Drawable) to be called on target." />
@@ -56,12 +57,11 @@
       <item value="Embedded" />
       <item value="Returns flow where all subsequent repetitions of the same value are filtered out. Note that any instance of StateFlow already behaves as if distinctUtilChanged operator is applied to it, so applying distinctUntilChanged to a StateFlow has no effect. See StateFlow documentation on Operator Fusion. Also, repeated application of distinctUntilChanged operator on any flow has no effect." />
       <item value="chapter" />
-      <item value="Comment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="462" />
-        <entry key="ENGLISH" value="463" />
+        <entry key="CHINESE" value="463" />
+        <entry key="ENGLISH" value="464" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
