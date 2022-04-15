@@ -8,7 +8,7 @@
             <value value="192.168.11.66:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-01T09:41:56.650665Z" />
+        <lastOnlineTime value="2022-04-15T09:53:59.456658700Z" />
         <name value="Xiaomi MI 8" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -48,6 +48,18 @@
         <name value="Xiaomi MI 8" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="b6e2d99d" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-15T10:00:11.640463200Z" />
+        <name value="OPPO PEGM00" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
