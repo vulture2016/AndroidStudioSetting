@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A mandatory lifecycle callback that is called when a load is cancelled and its resources are freed. You must ensure that any current Drawable received in onResourceReady(Object, Transition) is no longer used before redrawing the container (usually a View) or changing its visibility. Params: placeholder – The placeholder drawable to optionally show, or null." />
       <item value="aspect" />
       <item value="Constructor" />
       <item value="we will figure out what to do on upper level." />
@@ -56,12 +57,11 @@
       <item value="Cannot figure out how to save this field into database." />
       <item value="Embedded" />
       <item value="Returns flow where all subsequent repetitions of the same value are filtered out. Note that any instance of StateFlow already behaves as if distinctUtilChanged operator is applied to it, so applying distinctUntilChanged to a StateFlow has no effect. See StateFlow documentation on Operator Fusion. Also, repeated application of distinctUntilChanged operator on any flow has no effect." />
-      <item value="chapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="463" />
-        <entry key="ENGLISH" value="464" />
+        <entry key="CHINESE" value="464" />
+        <entry key="ENGLISH" value="465" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649828554849" />
+    <option name="lastTrimTime" value="1650275062015" />
   </component>
 </application>
