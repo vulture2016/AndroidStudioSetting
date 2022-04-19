@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Constructor taking separate indents for the first and subsequent lines. Params: first – the indent for the first line of the paragraph rest – the indent for the remaining lines of the paragraph" />
       <item value="The standard implementation of LeadingMarginSpan, which adjusts the margin but does not do any rendering." />
       <item value="Was Show Tag" />
       <item value="A mandatory lifecycle callback that is called when a load is cancelled and its resources are freed. You must ensure that any current Drawable received in onResourceReady(Object, Transition) is no longer used before redrawing the container (usually a View) or changing its visibility. Params: placeholder – The placeholder drawable to optionally show, or null." />
@@ -56,12 +57,11 @@
       <item value="Mills" />
       <item value="zone stay" />
       <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
-      <item value="Cannot figure out how to save this field into database." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="466" />
-        <entry key="ENGLISH" value="467" />
+        <entry key="CHINESE" value="467" />
+        <entry key="ENGLISH" value="468" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
