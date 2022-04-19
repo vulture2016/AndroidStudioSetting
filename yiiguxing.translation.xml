@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Constraint" />
       <item value="Constructor taking separate indents for the first and subsequent lines. Params: first – the indent for the first line of the paragraph rest – the indent for the remaining lines of the paragraph" />
       <item value="The standard implementation of LeadingMarginSpan, which adjusts the margin but does not do any rendering." />
       <item value="Was Show Tag" />
@@ -56,12 +57,11 @@
       <item value="Millis" />
       <item value="Mills" />
       <item value="zone stay" />
-      <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="467" />
-        <entry key="ENGLISH" value="468" />
+        <entry key="CHINESE" value="468" />
+        <entry key="ENGLISH" value="469" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
