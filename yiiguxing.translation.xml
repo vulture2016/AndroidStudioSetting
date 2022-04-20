@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="282" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="selttem" />
       <item value="Constraint" />
       <item value="Constructor taking separate indents for the first and subsequent lines. Params: first – the indent for the first line of the paragraph rest – the indent for the remaining lines of the paragraph" />
       <item value="The standard implementation of LeadingMarginSpan, which adjusts the margin but does not do any rendering." />
@@ -56,17 +57,17 @@
       <item value="菜单" />
       <item value="Millis" />
       <item value="Mills" />
-      <item value="zone stay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
+        <entry key="CHINESE" value="469" />
         <entry key="ENGLISH" value="469" />
         <entry key="FRENCH" value="2" />
         <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="JAPANESE" value="2" />
         <entry key="SOMALI" value="1" />
+        <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
