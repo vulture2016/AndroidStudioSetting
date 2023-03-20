@@ -1,0 +1,185 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="$ShowTranslationDialogAction" />
+  <action id="ActivateADBWi-FiToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl numpad7" />
+  </action>
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateFundAssistantToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="AndroidLogConsole.DeviceScreenshotAction">
+    <keyboard-shortcut first-keystroke="ctrl numpad9" />
+  </action>
+  <action id="AndroidLogConsole.ScreenshotAction">
+    <keyboard-shortcut first-keystroke="alt numpad8" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="CIDR.Lang.ImportsHierarchy" />
+  <action id="ChangeSignature" />
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="ctrl alt z" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+  <action id="ConvertToWebp">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollUp" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="ExpandAllRegions" />
+  <action id="ExpandAllToLevel1">
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad1" />
+  </action>
+  <action id="ExpandAllToLevel2">
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="2" />
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad2" />
+  </action>
+  <action id="ExpandAllToLevel3">
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="3" />
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad3" />
+  </action>
+  <action id="ExpandAllToLevel4">
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="4" />
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad4" />
+  </action>
+  <action id="ExpandAllToLevel5">
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="5" />
+    <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="numpad5" />
+  </action>
+  <action id="ExpandToLevel1">
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="numpad1" />
+  </action>
+  <action id="ExpandToLevel2">
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="2" />
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="numpad2" />
+  </action>
+  <action id="ExpandToLevel3">
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="3" />
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="numpad3" />
+  </action>
+  <action id="ExpandToLevel4">
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="4" />
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="numpad4" />
+  </action>
+  <action id="ExpandToLevel5">
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="5" />
+    <keyboard-shortcut first-keystroke="ctrl multiply" second-keystroke="numpad5" />
+  </action>
+  <action id="ExportToTextFile" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="GotoBookmark1" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Gradle.ToggleOfflineAction">
+    <keyboard-shortcut first-keystroke="ctrl alt f11" />
+  </action>
+  <action id="IncrementalSearch" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="JumpToLastChange" />
+  <action id="LocalHistory">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="MethodOverloadSwitchUp" />
+  <action id="OpenCodotaSearch">
+    <keyboard-shortcut first-keystroke="shift ctrl alt y" />
+  </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="ServiceView.ShowServices" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="ViewMainMenu">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
+  <action id="XDebugger.SetValue" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>

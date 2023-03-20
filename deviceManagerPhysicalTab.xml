@@ -1,0 +1,66 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.11.66:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-15T10:53:57.266198800Z" />
+        <name value="Xiaomi MI 8" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="GDB6R19A22005160" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-01T09:59:34.190546200Z" />
+        <name value="HUAWEI HLK-AL00" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.11.63:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-22T02:50:28.766784600Z" />
+        <name value="Xiaomi MI 8" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.11.61:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-18T06:03:00.904328800Z" />
+        <name value="Xiaomi MI 8" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="b6e2d99d" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-15T10:00:11.640463200Z" />
+        <name value="OPPO PEGM00" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
