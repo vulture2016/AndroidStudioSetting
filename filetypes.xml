@@ -7,7 +7,10 @@
       <mapping pattern="channel" type="PLAIN_TEXT" />
       <mapping ext="svga" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping pattern="pubspec.lock" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
